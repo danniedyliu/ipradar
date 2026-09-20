@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20 09:51:43",
+ "updated_at": "2026-09-20 09:57:09",
  "updated_date": "2026-09-20",
  "platform_meta": {
   "tencent": {
@@ -60,7 +60,7 @@
       "剧情"
      ],
      "url": "https://v.qq.com/x/search/?q=%E4%BA%A4%E9%94%8B",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "王凯 彭昱畅 欧豪 周依然",
@@ -80,7 +80,7 @@
       "古装"
      ],
      "url": "https://v.qq.com/x/search/?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "丁禹兮 邓恩熙 温峥嵘 范诗然",
@@ -100,7 +100,7 @@
       "古装"
      ],
      "url": "https://v.qq.com/x/search/?q=%E7%99%BE%E8%8A%B1%E6%9D%80",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "孟子义 何与",
@@ -116,7 +116,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E5%A9%9A%E5%90%8E%E5%BC%95%E5%8A%9B",
-     "delta": 0,
+     "delta": 11,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E5%A9%9A%E5%90%8E%E5%BC%95%E5%8A%9B"
@@ -144,7 +144,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E5%A6%BE%E6%9C%AC%E8%8D%89%E8%8A%A5",
-     "delta": 0,
+     "delta": 28,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E5%A6%BE%E6%9C%AC%E8%8D%89%E8%8A%A5"
@@ -156,7 +156,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%933",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "娄艺潇 陈赫 邓家佳 王传君",
@@ -195,7 +195,7 @@
       "剧情"
      ],
      "url": "https://v.qq.com/x/search/?q=%E6%A1%83%E8%8A%B1%E6%98%A0%E6%B1%9F%E5%B1%B1",
-     "delta": 0,
+     "delta": 11,
      "heat": null,
      "is_new": false,
      "cast": "刘学义 孟子义 高寒 刘令姿",
@@ -215,7 +215,7 @@
       "家庭"
      ],
      "url": "https://v.qq.com/x/search/?q=%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "赵露思 陈伟霆 万鹏 唐晓天",
@@ -231,7 +231,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E6%B5%8E%E5%85%AC%E4%B9%8B%E9%99%8D%E9%BE%99%E9%99%A4%E5%A6%96",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E6%B5%8E%E5%85%AC%E4%B9%8B%E9%99%8D%E9%BE%99%E9%99%A4%E5%A6%96"
@@ -243,7 +243,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E9%93%81%E8%AF%81",
-     "delta": 0,
+     "delta": -5,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E9%93%81%E8%AF%81"
@@ -259,7 +259,7 @@
       "爱情"
      ],
      "url": "https://v.qq.com/x/search/?q=%E9%94%A6%E5%BF%83%E4%BC%BC%E7%8E%89",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "钟汉良 谭松韵 何泓姗",
@@ -279,7 +279,7 @@
       "爱情"
      ],
      "url": "https://v.qq.com/x/search/?q=%E8%8E%AB%E7%A6%BB",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "白鹿 丞磊 林沐然 蔡正杰",
@@ -298,7 +298,7 @@
       "偶像"
      ],
      "url": "https://v.qq.com/x/search/?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "cast": "宋威龙 赵今麦 林依轮 赖伟明",
@@ -334,7 +334,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%934",
-     "delta": 0,
+     "delta": 4,
      "heat": null,
      "is_new": false,
      "cast": "娄艺潇 陈赫 邓家佳 王传君",
@@ -370,7 +370,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E5%B0%9A%E5%85%AC%E4%B8%BB",
-     "delta": 0,
+     "delta": 3,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E5%B0%9A%E5%85%AC%E4%B8%BB"
@@ -385,7 +385,7 @@
       "喜剧"
      ],
      "url": "https://v.qq.com/x/search/?q=%E5%9B%A7%E5%BE%92%E4%B9%8B%E9%A2%84%E6%BC%94%E5%91%8A%E5%88%AB",
-     "delta": 0,
+     "delta": -10,
      "heat": null,
      "is_new": false,
      "cast": "贾冰 田嘉瑞",
@@ -400,7 +400,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "王楚然 张凌赫 毛孩 王籽苏",
@@ -416,7 +416,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F",
-     "delta": 0,
+     "delta": -5,
      "heat": null,
      "is_new": false,
      "cast": "靳东 马伊琍 袁泉 雷佳音",
@@ -432,7 +432,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7",
-     "delta": 0,
+     "delta": 5,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7"
@@ -448,7 +448,7 @@
       "古装"
      ],
      "url": "https://v.qq.com/x/search/?q=%E6%8A%98%E8%85%B0",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "宋祖儿 刘宇宁 宣璐 刘端端",
@@ -469,7 +469,7 @@
      "url": "https://v.qq.com/x/search/?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%88",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "李现 李一桐 刘冠麟 吴刚",
      "episodes": "全24集",
      "baike_url": "https://baike.baidu.com/item/%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%88"
@@ -481,7 +481,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E8%A5%BF%E6%B8%B8%E8%AE%B0",
-     "delta": 0,
+     "delta": 10,
      "heat": null,
      "is_new": false,
      "cast": "六小龄童 马德华 闫怀礼 王伯昭",
@@ -501,7 +501,7 @@
       "古装"
      ],
      "url": "https://v.qq.com/x/search/?q=%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "虞书欣",
@@ -521,7 +521,7 @@
       "古装"
      ],
      "url": "https://v.qq.com/x/search/?q=%E5%BA%86%E4%BD%99%E5%B9%B4",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "张若昀 李沁 陈道明 吴刚",
@@ -543,7 +543,7 @@
      "url": "https://v.qq.com/x/search/?q=%E5%AD%90%E5%A4%9C%E5%BD%92",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "许凯 田曦薇 王佳怡 朱正廷",
      "director": "侣皓吉吉",
      "premiere": "2025-08-18",
@@ -561,7 +561,7 @@
       "仙侠"
      ],
      "url": "https://v.qq.com/x/search/?q=%E9%99%88%E6%83%85%E4%BB%A4",
-     "delta": 0,
+     "delta": 3,
      "heat": null,
      "is_new": false,
      "cast": "肖战 王一博",
@@ -583,7 +583,7 @@
      "url": "https://v.qq.com/x/search/?q=%E4%BD%A0%E6%AF%94%E6%98%9F%E5%85%89%E7%BE%8E%E4%B8%BD",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "许凯 谭松韵",
      "premiere": "2024-07-02",
      "episodes": "全40集",
@@ -602,7 +602,7 @@
      "url": "https://v.qq.com/x/search/?q=%E4%BD%A0%E7%BB%99%E6%88%91%E7%9A%84%E5%96%9C%E6%AC%A2",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "王玉雯 王子奇",
      "director": "丁英洲",
      "premiere": "2023-04-24",
@@ -620,7 +620,7 @@
       "战争军事"
      ],
      "url": "https://v.qq.com/x/search/?q=%E5%A3%AB%E5%85%B5%E7%AA%81%E5%87%BB",
-     "delta": 0,
+     "delta": 7,
      "heat": null,
      "is_new": false,
      "cast": "王宝强 陈思诚 张国强 段奕宏",
@@ -640,7 +640,7 @@
       "当代"
      ],
      "url": "https://v.qq.com/x/search/?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B",
-     "delta": 0,
+     "delta": -4,
      "heat": null,
      "is_new": false,
      "cast": "刘亦菲 佟大为",
@@ -656,7 +656,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E6%96%B0%E4%B8%89%E5%9B%BD",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E6%96%B0%E4%B8%89%E5%9B%BD"
@@ -674,7 +674,7 @@
      "url": "https://v.qq.com/x/search/?q=%E4%BC%BC%E9%94%A6",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "景甜 张晚意 郭涛 张弛（演员）",
      "director": "王为（导演） 李才",
      "premiere": "2025-03-01",
@@ -690,7 +690,7 @@
      "url": "https://v.qq.com/x/search/?q=%E5%AB%81%E9%87%91%E6%9E%9D",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E5%AB%81%E9%87%91%E6%9E%9D"
     },
     {
@@ -700,7 +700,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E7%8B%AC%E5%89%91%E4%B9%9D%E5%A4%A9",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E7%8B%AC%E5%89%91%E4%B9%9D%E5%A4%A9"
@@ -716,7 +716,7 @@
       "犯罪"
      ],
      "url": "https://v.qq.com/x/search/?q=%E8%97%8F%E9%94%8B",
-     "delta": 0,
+     "delta": -15,
      "heat": null,
      "is_new": false,
      "cast": "段奕宏 余男 阿如那 李纯",
@@ -732,7 +732,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E9%99%B7%E5%85%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%83%AD%E6%81%8B",
-     "delta": 0,
+     "delta": -5,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E9%99%B7%E5%85%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%83%AD%E6%81%8B"
@@ -744,7 +744,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E7%88%B6%E6%AF%8D%E7%88%B1%E6%83%85",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "郭涛 梅婷 刘琳 任帅",
@@ -760,7 +760,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3",
-     "delta": 0,
+     "delta": 5,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3"
@@ -793,7 +793,7 @@
      "url": "https://v.qq.com/x/search/?q=%E4%BA%AE%E5%89%91",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "李幼斌 何政军 张桐 童蕾",
      "director": "陈健 张前",
      "premiere": "2006-01-01",
@@ -813,7 +813,7 @@
      "url": "https://v.qq.com/x/search/?q=%E4%BA%AC%E5%9F%8E%E5%A5%87%E6%8E%A2",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "马思超 翟子路 于欣禾 春夏",
      "premiere": "2026-07-05",
      "episodes": "全36集",
@@ -828,7 +828,7 @@
      "url": "https://v.qq.com/x/search/?q=%E5%85%B5%E8%87%AA%E9%A3%8E%E4%B8%AD%E6%9D%A5",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "欧豪 蓝盈莹 丁勇岱 史兰芽",
      "director": "侯明杰",
      "premiere": "2026-07-23",
@@ -844,7 +844,7 @@
      "url": "https://v.qq.com/x/search/?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E5%BC%80%E5%88%B0%E8%8D%BC%E8%98%BC"
     },
     {
@@ -856,7 +856,7 @@
      "url": "https://v.qq.com/x/search/?q=%E9%95%BF%E7%9B%B8%E6%80%9D%20%E7%AC%AC%E4%B8%80%E5%AD%A3",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E9%95%BF%E7%9B%B8%E6%80%9D%20%E7%AC%AC%E4%B8%80%E5%AD%A3"
     },
     {
@@ -866,7 +866,7 @@
      "desc": "",
      "tags": [],
      "url": "https://v.qq.com/x/search/?q=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "鲍国安 唐国强 孙彦军 濮存昕",
@@ -1284,85 +1284,505 @@
    "hot": [
     {
      "rank": 1,
-     "title": "一瓯春",
-     "cover": "http://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
-     "desc": "双强联手 入局复仇",
-     "tags": [
-      "言情",
-      "古装"
-     ],
-     "url": "http://www.iqiyi.com/a_2b9ocx2qugh.html",
-     "delta": 1,
-     "heat": null,
-     "cast": "许凯 周也 白澍",
-     "episodes": "全30集",
-     "updated_on": "2026-09-17",
-     "is_new": false,
-     "director": "潘安子",
-     "premiere": "2026-09-17",
-     "baike_url": "https://baike.baidu.com/item/%E4%B8%80%E7%93%AF%E6%98%A5"
-    },
-    {
-     "rank": 2,
-     "title": "深渊无间",
-     "cover": "http://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
-     "desc": "凶案连载悬疑剧",
-     "tags": [
-      "悬疑"
-     ],
-     "url": "http://www.iqiyi.com/a_okv7zmsbr1.html",
-     "delta": 1,
-     "heat": null,
-     "cast": "任嘉伦 秦俊杰 王砚辉",
-     "episodes": "全16集",
-     "updated_on": "2026-09-10",
-     "is_new": false,
-     "director": "刘海波",
-     "premiere": "2026-09-09",
-     "baike_url": "https://baike.baidu.com/item/%E6%B7%B1%E6%B8%8A%E6%97%A0%E9%97%B4"
-    },
-    {
-     "rank": 3,
      "title": "生逢其时",
-     "cover": "http://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
-     "desc": "生而无畏 恰逢其时",
+     "cover": "https://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
+     "desc": "青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样",
      "tags": [
-      "家庭"
+      "家庭",
+      "年代"
      ],
      "url": "http://www.iqiyi.com/a_nvusovhwc5.html",
-     "delta": -2,
-     "heat": null,
-     "cast": "王子奇 关晓彤 刘琳",
+     "delta": 1,
+     "heat": 7155,
+     "cast": "王子奇 关晓彤",
      "episodes": "全26集",
-     "updated_on": "2026-09-16",
+     "updated_on": "",
      "is_new": false,
      "director": "林妍",
      "premiere": "2026-09-03",
      "baike_url": "https://baike.baidu.com/item/%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6"
     },
     {
-     "rank": 4,
-     "title": "车轮下的真相",
-     "cover": "http://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
-     "desc": "全员恶人 反转局中局",
+     "rank": 2,
+     "title": "一瓯春",
+     "cover": "https://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
+     "desc": "“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于高门大户里明争暗斗，立朝堂官场上搅弄风云。最终他们走出暗流深渊，奔赴璀璨新生。",
+     "tags": [
+      "复仇",
+      "古装"
+     ],
+     "url": "http://www.iqiyi.com/a_2b9ocx2qugh.html",
+     "delta": 0,
+     "heat": 7098,
+     "cast": "许凯 周也",
+     "episodes": "全30集",
+     "updated_on": "",
+     "is_new": true,
+     "director": "潘安子",
+     "premiere": "2026-09-17",
+     "baike_url": "https://baike.baidu.com/item/%E4%B8%80%E7%93%AF%E6%98%A5"
+    },
+    {
+     "rank": 3,
+     "title": "深渊无间",
+     "cover": "https://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
+     "desc": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终",
      "tags": [
       "悬疑",
+      "罪案"
+     ],
+     "url": "http://www.iqiyi.com/a_okv7zmsbr1.html",
+     "delta": -2,
+     "heat": 6704,
+     "cast": "任嘉伦 秦俊杰",
+     "episodes": "全16集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "刘海波",
+     "premiere": "2026-09-09",
+     "baike_url": "https://baike.baidu.com/item/%E6%B7%B1%E6%B8%8A%E6%97%A0%E9%97%B4"
+    },
+    {
+     "rank": 4,
+     "title": "醒来",
+     "cover": "https://pic8.iqiyipic.com/image/20260828/1a/e7/a_100684407_m_601_m10.jpg",
+     "desc": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门",
+     "tags": [
+      "谍战",
+      "年代"
+     ],
+     "url": "http://www.iqiyi.com/a_1ojttm1bmpp.html",
+     "delta": -1,
+     "heat": 4820,
+     "cast": "欧豪 娜扎",
+     "episodes": "全22集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "赵宝刚 刘心刚",
+     "premiere": "2026-08-26",
+     "baike_url": "https://baike.baidu.com/item/%E9%86%92%E6%9D%A5"
+    },
+    {
+     "rank": 5,
+     "title": "重案六组：消失的警号",
+     "cover": "https://pic4.iqiyipic.com/image/20260904/1d/cd/a_101315007_m_601_m9.jpg",
+     "desc": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动",
+     "tags": [
       "罪案",
-      "内地"
+      "悬疑"
+     ],
+     "url": "http://www.iqiyi.com/a_20iro6do9dl.html",
+     "delta": -1,
+     "heat": 4655,
+     "cast": "张一山 李沐宸",
+     "episodes": "全26集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "李昂（导演）",
+     "premiere": "2026-08-31",
+     "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7"
+    },
+    {
+     "rank": 6,
+     "title": "重器",
+     "cover": "https://pic8.iqiyipic.com/image/20260812/f7/2b/a_100624469_m_601_m7.jpg",
+     "desc": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼",
+     "tags": [
+      "剧情",
+      "年代"
+     ],
+     "url": "http://www.iqiyi.com/a_10818unjun5.html",
+     "delta": -1,
+     "heat": 4513,
+     "cast": "黄景瑜 蒋奇明",
+     "episodes": "全33集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "沈严 李江明",
+     "premiere": "2026-08-10",
+     "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E5%99%A8"
+    },
+    {
+     "rank": 7,
+     "title": "车轮下的真相",
+     "cover": "https://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
+     "desc": "曾任职刑警的交警李星辰，在一个雨夜接手一桩离奇车祸案。企业家高玉海意外殒命，现场遭一名假交警清理破坏，关键证据被抹除。市局成立专案组由李星辰牵头彻查此案。肇事司机沈溪看似与死者毫无",
+     "tags": [
+      "警匪",
+      "悬疑"
      ],
      "url": "http://www.iqiyi.com/a_1lj0zydzzu9.html",
-     "delta": 3,
-     "heat": null,
-     "cast": "于小彤 王智勇(王睿子) 张可盈",
+     "delta": 0,
+     "heat": 4330,
+     "cast": "于小彤 王智勇(王睿子)",
      "episodes": "全30集",
-     "updated_on": "2026-09-16",
-     "is_new": false,
+     "updated_on": "",
+     "is_new": true,
      "director": "跃舜茗",
      "premiere": "2026-09-16",
      "baike_url": "https://baike.baidu.com/item/%E8%BD%A6%E8%BD%AE%E4%B8%8B%E7%9A%84%E7%9C%9F%E7%9B%B8"
     },
     {
-     "rank": 5,
+     "rank": 8,
+     "title": "雀骨",
+     "cover": "https://pic2.iqiyipic.com/image/20260713/ad/f8/a_100654530_m_601_m4.jpg",
+     "desc": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+     "tags": [
+      "爱情",
+      "古装"
+     ],
+     "url": "http://www.iqiyi.com/a_xkt6z4c7kt.html",
+     "delta": -1,
+     "heat": 3735,
+     "cast": "艾米 侯明昊",
+     "episodes": "全28集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "高翊浚 孙梦飞",
+     "premiere": "2026-07-11",
+     "baike_url": "https://baike.baidu.com/item/%E9%9B%80%E9%AA%A8"
+    },
+    {
+     "rank": 9,
+     "title": "师兄太稳健",
+     "cover": "https://pic4.iqiyipic.com/image/20260817/f1/74/a_101283421_m_601_m3.jpg",
+     "desc": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、",
+     "tags": [
+      "古装"
+     ],
+     "url": "http://www.iqiyi.com/a_mo3lnx7h41.html",
+     "delta": -3,
+     "heat": 3727,
+     "cast": "敖瑞鹏 孙珍妮",
+     "episodes": "全30集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "何澍培",
+     "premiere": "2026-08-19",
+     "baike_url": "https://baike.baidu.com/item/%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5"
+    },
+    {
+     "rank": 10,
+     "title": "冬至",
+     "cover": "https://pic1.iqiyipic.com/image/20241227/4f/53/a_100548603_m_601_m10.jpg",
+     "desc": "麻醉科医生陆嫣在一次上夜班的途中“偶遇”已经死亡多年的好友邓蔓，之后身边的怪事便接踵而至。在查明真相的过程中，陆嫣分手多年的前男友，刑警江成屹也被卷入其中。被掩藏八年的真相，一步一",
+     "tags": [
+      "都市",
+      "爱情"
+     ],
+     "url": "http://www.iqiyi.com/a_heq2e0uadx.html",
+     "delta": -2,
+     "heat": 3562,
+     "cast": "黄景瑜 孙千",
+     "episodes": "全36集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "于中中（导）",
+     "premiere": "2024-12-20",
+     "baike_url": "https://baike.baidu.com/item/%E5%86%AC%E8%87%B3"
+    },
+    {
+     "rank": 11,
+     "title": "天才，女友",
+     "cover": "https://pic0.iqiyipic.com/image/20260806/38/bd/a_100661341_m_601_m6.jpg",
+     "desc": "天才少女林知夏性格直接、不善交际，从小没有好友。考入省一中后，她因解题比拼与性格阳光的学霸江逾白相识并成为同桌。作为社交达人的江逾白帮林知夏融入集体交到汤婷婷、段启言、沈负暄、金百",
+     "tags": [
+      "言情",
+      "剧情"
+     ],
+     "url": "http://www.iqiyi.com/a_1ljopeqm0kd.html",
+     "delta": -2,
+     "heat": 3319,
+     "cast": "田曦薇 胡一天",
+     "episodes": "全28集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "田羽生",
+     "premiere": "2026-08-02",
+     "baike_url": "https://baike.baidu.com/item/%E5%A4%A9%E6%89%8D%EF%BC%8C%E5%A5%B3%E5%8F%8B"
+    },
+    {
+     "rank": 12,
+     "title": "武林外传",
+     "cover": "https://pic5.iqiyipic.com/image/20231109/65/80/a_50133980_m_601_m15.jpg",
+     "desc": "国内情景喜剧的巅峰之作，一举捧红沙溢，闫妮，姚晨等明星，人物形象各个生动，每集笑点让人捧腹大笑不止。故事讲述了以掌柜的佟湘玉(抠门之极的女店主，风情万种但心地善良，婆婆妈妈又十分鸡",
+     "tags": [
+      "古装",
+      "喜剧"
+     ],
+     "url": "http://www.iqiyi.com/a_19rrk2hct9.html",
+     "delta": 0,
+     "heat": 3274,
+     "cast": "闫妮 沙溢",
+     "episodes": "全81集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "尚敬",
+     "premiere": "2006-01-01",
+     "baike_url": "https://baike.baidu.com/item/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0"
+    },
+    {
+     "rank": 13,
+     "title": "低智商犯罪",
+     "cover": "https://pic2.iqiyipic.com/image/20260428/3d/35/a_100577495_m_601_m9.jpg",
+     "desc": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。",
+     "tags": [
+      "犯罪",
+      "喜剧"
+     ],
+     "url": "http://www.iqiyi.com/a_25vgx15887l.html",
+     "delta": -2,
+     "heat": 3193,
+     "cast": "王骁 田曦薇",
+     "episodes": "全24集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "刘海波",
+     "premiere": "2026-05-04",
+     "baike_url": "https://baike.baidu.com/item/%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA"
+    },
+    {
+     "rank": 14,
+     "title": "狂飙",
+     "cover": "https://pic0.iqiyipic.com/image/20231113/8b/04/a_100476174_m_601_m44.jpg",
+     "desc": "由金牌导演徐纪周执导，张译、张颂文、李一桐、张志坚、吴刚领衔主演，倪大红、韩童生、李建义特邀主演的中央政法委重点项目。一部扫黑除恶坚决斗争的回忆录，横跨20年的群像叙事全景式展现时",
+     "tags": [
+      "罪案",
+      "警匪"
+     ],
+     "url": "http://www.iqiyi.com/a_1fkgtbddd2x.html",
+     "delta": 2,
+     "heat": 3171,
+     "cast": "张译 张颂文",
+     "episodes": "全39集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "徐纪周",
+     "premiere": "2023-01-14",
+     "baike_url": "https://baike.baidu.com/item/%E7%8B%82%E9%A3%99"
+    },
+    {
+     "rank": 15,
+     "title": "家业",
+     "cover": "https://pic1.iqiyipic.com/image/20260517/10/c9/a_100591160_m_601_m12.jpg",
+     "desc": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，位居龙头多年的百年制墨世家李墨没落，李墨八房被除族。时光流转，八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力惊艳沉寂已久的徽",
+     "tags": [
+      "古装",
+      "励志"
+     ],
+     "url": "http://www.iqiyi.com/a_131ig5wtqg5.html",
+     "delta": 3,
+     "heat": 3151,
+     "cast": "杨紫 韩东君",
+     "episodes": "全42集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "惠楷栋 王成欣",
+     "premiere": "2026-05-17",
+     "baike_url": "https://baike.baidu.com/item/%E5%AE%B6%E4%B8%9A"
+    },
+    {
+     "rank": 16,
+     "title": "钢铁森林",
+     "cover": "https://pic9.iqiyipic.com/image/20260410/e2/64/a_100586696_m_601_m10.jpg",
+     "desc": "一具女尸牵出“8•17”悬案的全新线索，旧案重启。犯罪心理学教授江寒声（井柏然 饰）空降专案组令刑侦女警周瑾（蔡文静 饰）震惊，闪婚丈夫竟曾是省厅干警，调查矛头直指她青梅竹马的初恋",
+     "tags": [
+      "犯罪",
+      "悬疑"
+     ],
+     "url": "http://www.iqiyi.com/a_1ycxztfjcgd.html",
+     "delta": -6,
+     "heat": 3148,
+     "cast": "井柏然 蔡文静",
+     "episodes": "全28集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "天毅",
+     "premiere": "2026-04-03",
+     "baike_url": "https://baike.baidu.com/item/%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97"
+    },
+    {
+     "rank": 17,
+     "title": "逐玉",
+     "cover": "https://pic4.iqiyipic.com/image/20260317/bb/ee/a_100598681_m_601_m9.jpg",
+     "desc": "本剧讲述了屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，",
+     "tags": [
+      "爱情",
+      "古装"
+     ],
+     "url": "http://www.iqiyi.com/a_km3isv5eh1.html",
+     "delta": 4,
+     "heat": 3131,
+     "cast": "张凌赫 田曦薇",
+     "episodes": "全40集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "曾庆杰",
+     "premiere": "2026-03-06",
+     "baike_url": "https://baike.baidu.com/item/%E9%80%90%E7%8E%89"
+    },
+    {
+     "rank": 18,
+     "title": "这一秒过火",
+     "cover": "https://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+     "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别",
+     "tags": [
+      "爱情",
+      "言情"
+     ],
+     "url": "http://www.iqiyi.com/a_ng9j9rno7x.html",
+     "delta": -5,
+     "heat": 3042,
+     "cast": "王楚然 张凌赫",
+     "episodes": "全33集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "易军",
+     "premiere": "2026-07-19",
+     "baike_url": "https://baike.baidu.com/item/%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB"
+    },
+    {
+     "rank": 19,
+     "title": "我的前半生",
+     "cover": "https://pic1.iqiyipic.com/image/20231110/fc/08/a_100039200_m_601_m11.jpg",
+     "desc": "35岁的全职太太罗子君因丈夫提出离婚，从安逸生活跌入谷底。在闺蜜唐晶和精英男友贺涵的帮助下，子君重启人生。贺涵的平静生活被打破，职场女超人唐晶面临事业难题。他们在爱情、婚姻、事业的",
+     "tags": [
+      "都市",
+      "婚姻"
+     ],
+     "url": "http://www.iqiyi.com/a_19rrha7kjt.html",
+     "delta": -4,
+     "heat": 3027,
+     "cast": "靳东 马伊琍",
+     "episodes": "全42集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "沈严",
+     "premiere": "2017-07-04",
+     "baike_url": "https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F"
+    },
+    {
+     "rank": 20,
+     "title": "罚罪2",
+     "cover": "https://pic3.iqiyipic.com/image/20251225/1b/21/a_100616599_m_601_m6.jpg",
+     "desc": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节",
+     "tags": [
+      "罪案",
+      "犯罪"
+     ],
+     "url": "http://www.iqiyi.com/a_11hmrgvte3d.html",
+     "delta": 2,
+     "heat": 3022,
+     "cast": "黄景瑜 王传君",
+     "episodes": "全40集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "天毅 易勇",
+     "premiere": "2025-12-25",
+     "baike_url": "https://baike.baidu.com/item/%E7%BD%9A%E7%BD%AA2"
+    },
+    {
+     "rank": 21,
+     "title": "南部档案",
+     "cover": "https://pic0.iqiyipic.com/image/20260611/d6/17/a_100598207_m_601_m3.jpg",
+     "desc": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求",
+     "tags": [
+      "剧情",
+      "自制"
+     ],
+     "url": "http://www.iqiyi.com/a_1n7ouekogmd.html",
+     "delta": -2,
+     "heat": 3016,
+     "cast": "张新成 丁禹兮",
+     "episodes": "全33集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "周靖韬",
+     "premiere": "2026-06-11",
+     "baike_url": "https://baike.baidu.com/item/%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88"
+    },
+    {
+     "rank": 22,
+     "title": "凛冬下的罪恶",
+     "cover": "https://pic4.iqiyipic.com/image/20260806/d6/d7/a_100922154_m_601_m7.jpg",
+     "desc": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二",
+     "tags": [
+      "悬疑",
+      "罪案"
+     ],
+     "url": "http://www.iqiyi.com/a_1fjulaqfaqh.html",
+     "delta": -8,
+     "heat": 3010,
+     "cast": "吴昊宸 张睿",
+     "episodes": "全26集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "柯伯龙（导演）",
+     "premiere": "2026-08-04",
+     "baike_url": "https://baike.baidu.com/item/%E5%87%9B%E5%86%AC%E4%B8%8B%E7%9A%84%E7%BD%AA%E6%81%B6"
+    },
+    {
+     "rank": 23,
+     "title": "归路",
+     "cover": "https://pic2.iqiyipic.com/image/20231113/c5/89/a_100504158_m_601_m32.jpg",
+     "desc": "学生时代的路炎晨和归晓是彼此的初恋，随着路炎晨远赴他乡进入警校，归晓家庭变故，两人学生时代的感情无疾而终。八年后再度重逢，一句“化成灰我都认得你”让两人明白依旧对彼此念念不忘。两年",
+     "tags": [
+      "都市",
+      "爱情"
+     ],
+     "url": "http://www.iqiyi.com/a_nyzpv85e49.html",
+     "delta": -3,
+     "heat": 2989,
+     "cast": "井柏然 谭松韵",
+     "episodes": "全30集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "余翠华",
+     "premiere": "2023-03-14",
+     "baike_url": "https://baike.baidu.com/item/%E5%BD%92%E8%B7%AF"
+    },
+    {
+     "rank": 24,
+     "title": "我是刑警",
+     "cover": "https://pic4.iqiyipic.com/image/20241213/65/34/a_100480740_m_601_m13.jpg",
+     "desc": "谨以此片向七一勋章获得者、全国公安系统一级英模崔道植，全国公安系统一级英模、最美奋斗者、刑侦专家乌国庆，以及奋战在基层一线的广大刑侦民警致以崇高的敬意。90年代的中昌省河昌市，基层",
+     "tags": [
+      "罪案",
+      "警匪"
+     ],
+     "url": "http://www.iqiyi.com/a_2aqsabi4rzh.html",
+     "delta": 0,
+     "heat": 2906,
+     "cast": "于和伟 富大龙",
+     "episodes": "全38集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "惠楷栋",
+     "premiere": "2024-11-27",
+     "baike_url": "https://baike.baidu.com/item/%E6%88%91%E6%98%AF%E5%88%91%E8%AD%A6"
+    },
+    {
+     "rank": 25,
+     "title": "琅琊榜",
+     "cover": "https://pic1.iqiyipic.com/image/20231212/38/72/a_100006840_m_601_m25.jpg",
+     "desc": "《琅琊榜》是根据海宴同名小说改编的大型古装传奇电视剧。该剧以平反冤案、扶持明君、振兴山河为主线，讲述了“麒麟才子”梅长苏才冠绝伦、以病弱之躯拨开重重迷雾、智博奸佞，为昭雪多年冤案、",
+     "tags": [
+      "古装",
+      "宫廷"
+     ],
+     "url": "http://www.iqiyi.com/a_19rrhc0u75.html",
+     "delta": 0,
+     "heat": 2904,
+     "cast": "胡歌 刘涛",
+     "episodes": "全54集",
+     "updated_on": "",
+     "is_new": false,
+     "director": "李雪 孔笙",
+     "premiere": "2015-09-19",
+     "baike_url": "https://baike.baidu.com/item/%E7%90%85%E7%90%8A%E6%A6%9C"
+    },
+    {
+     "rank": 26,
      "title": "阎魔的宠妃",
      "cover": "http://pic5.iqiyipic.com/image/20260915/32/7f/a_101474514_m_601_m3.jpg",
      "desc": "天降少女情定寒潭",
@@ -1372,18 +1792,18 @@
       "奇幻"
      ],
      "url": "http://www.iqiyi.com/a_obm13fdtfx.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "阿空 阎魔",
      "episodes": "全24集",
      "updated_on": "2026-09-18",
-     "is_new": false,
+     "is_new": true,
      "director": "赵晓月",
      "premiere": "2026-09-17",
      "baike_url": "https://baike.baidu.com/item/%E9%98%8E%E9%AD%94%E7%9A%84%E5%AE%A0%E5%A6%83"
     },
     {
-     "rank": 6,
+     "rank": 27,
      "title": "荣耀的阶梯",
      "cover": "http://pic4.iqiyipic.com/image/20260910/24/d5/a_101440228_m_601_m3.jpg",
      "desc": "步步为营，阶阶荣耀",
@@ -1393,18 +1813,18 @@
       "普通话"
      ],
      "url": "http://www.iqiyi.com/a_2c6twavvxgx.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "王佳玉 姜之南 胡潇悦",
      "episodes": "全24集",
      "updated_on": "2026-09-17",
-     "is_new": false,
+     "is_new": true,
      "director": "赵曦夕 张晓琦",
      "premiere": "2026-09-17",
      "baike_url": "https://baike.baidu.com/item/%E8%8D%A3%E8%80%80%E7%9A%84%E9%98%B6%E6%A2%AF"
     },
     {
-     "rank": 7,
+     "rank": 28,
      "title": "梦回缘",
      "cover": "http://pic5.iqiyipic.com/image/20260911/be/88/a_101458921_m_601_m4.jpg",
      "desc": "逆天改命却步步皆局",
@@ -1414,7 +1834,7 @@
       "内地"
      ],
      "url": "http://www.iqiyi.com/a_1zr97i5ptqh.html",
-     "delta": 21,
+     "delta": -2,
      "heat": null,
      "cast": "刘胤君 文景芝 龚婉怡",
      "episodes": "全24集",
@@ -1424,7 +1844,7 @@
      "baike_url": "https://baike.baidu.com/item/%E6%A2%A6%E5%9B%9E%E7%BC%98"
     },
     {
-     "rank": 8,
+     "rank": 29,
      "title": "仙台有树",
      "cover": "http://pic4.iqiyipic.com/image/20250205/70/d3/a_100546903_m_601_m12.jpg",
      "desc": "邓为向涵之师徒换乘",
@@ -1433,7 +1853,7 @@
       "古装"
      ],
      "url": "http://www.iqiyi.com/a_no9xm9m315.html",
-     "delta": 21,
+     "delta": 2,
      "heat": null,
      "cast": "邓为 向涵之 陈鑫海",
      "episodes": "全40集",
@@ -1444,7 +1864,7 @@
      "baike_url": "https://baike.baidu.com/item/%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91"
     },
     {
-     "rank": 9,
+     "rank": 30,
      "title": "人生若如初见",
      "cover": "http://pic8.iqiyipic.com/image/20250513/2c/eb/a_100431290_m_601_m10.jpg",
      "desc": "回望百年前时代的转角",
@@ -1454,7 +1874,7 @@
       "民国"
      ],
      "url": "http://www.iqiyi.com/a_10ie4hwpgt9.html",
-     "delta": 21,
+     "delta": 2,
      "heat": null,
      "cast": "李现 春夏 魏大勋",
      "episodes": "全40集",
@@ -1465,7 +1885,7 @@
      "baike_url": "https://baike.baidu.com/item/%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81"
     },
     {
-     "rank": 10,
+     "rank": 31,
      "title": "人生赢家",
      "cover": "http://pic4.iqiyipic.com/image/20260914/4a/8a/a_101293765_m_601_m5.jpg",
      "desc": "带崽还债，全家逆袭",
@@ -1475,18 +1895,18 @@
       "普通话"
      ],
      "url": "http://www.iqiyi.com/a_29wrbhieoy5.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "丁笑滢 贺鹏",
      "episodes": "全24集",
      "updated_on": "2026-08-28",
-     "is_new": false,
+     "is_new": true,
      "director": "侯明杰",
      "premiere": "2026-09-08",
      "baike_url": "https://baike.baidu.com/item/%E4%BA%BA%E7%94%9F%E8%B5%A2%E5%AE%B6"
     },
     {
-     "rank": 11,
+     "rank": 32,
      "title": "不可告人",
      "cover": "http://pic2.iqiyipic.com/image/20240515/77/2f/a_100545294_m_601_m10.jpg",
      "desc": "欧豪李一桐探寻真相",
@@ -1496,7 +1916,7 @@
       "剧情"
      ],
      "url": "http://www.iqiyi.com/a_2d0csqgi611.html",
-     "delta": 21,
+     "delta": 1,
      "heat": null,
      "cast": "欧豪 李一桐 杨玏",
      "episodes": "全12集",
@@ -1507,7 +1927,7 @@
      "baike_url": "https://baike.baidu.com/item/%E4%B8%8D%E5%8F%AF%E5%91%8A%E4%BA%BA"
     },
     {
-     "rank": 12,
+     "rank": 33,
      "title": "完美的救赎",
      "cover": "http://pic3.iqiyipic.com/image/20250617/07/8d/a_100571931_m_601_m8.jpg",
      "desc": "真相之上 谎言之下",
@@ -1516,7 +1936,7 @@
       "罪案"
      ],
      "url": "http://www.iqiyi.com/a_1k5zd5ia1a1.html",
-     "delta": 21,
+     "delta": -3,
      "heat": null,
      "cast": "欧豪 王鹤润 成泰燊",
      "episodes": "全16集",
@@ -1527,7 +1947,7 @@
      "baike_url": "https://baike.baidu.com/item/%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%95%91%E8%B5%8E"
     },
     {
-     "rank": 13,
+     "rank": 34,
      "title": "黄雀",
      "cover": "http://pic2.iqiyipic.com/image/20250328/de/9c/a_100551893_m_601_m10.jpg",
      "desc": "郭京飞秦岚市井缉盗",
@@ -1536,39 +1956,18 @@
       "罪案"
      ],
      "url": "http://www.iqiyi.com/a_ywe4xqrw4t.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "郭京飞 秦岚 祖峰",
      "episodes": "全24集",
      "updated_on": "2025-03-25",
-     "is_new": false,
+     "is_new": true,
      "director": "卢伦常",
      "premiere": "2025-03-18",
      "baike_url": "https://baike.baidu.com/item/%E9%BB%84%E9%9B%80"
     },
     {
-     "rank": 14,
-     "title": "最好的我们",
-     "cover": "http://pic9.iqiyipic.com/image/20210304/ab/79/a_100018104_m_601_m59.jpg",
-     "desc": "你想要的青春都在这里",
-     "tags": [
-      "内地",
-      "青春",
-      "普通话"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhbd6ad.html",
-     "delta": 21,
-     "heat": null,
-     "cast": "刘昊然 谭松韵 王栎鑫",
-     "episodes": "全24集",
-     "updated_on": "2016-06-15",
-     "is_new": false,
-     "director": "刘畅",
-     "premiere": "2016-04-08",
-     "baike_url": "https://baike.baidu.com/item/%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%91%E4%BB%AC"
-    },
-    {
-     "rank": 15,
+     "rank": 35,
      "title": "人间正道是沧桑",
      "cover": "http://pic2.iqiyipic.com/image/20220901/52/25/a_50000182_m_601_m5.jpg",
      "desc": "革命历史恢宏史诗",
@@ -1578,7 +1977,7 @@
       "内地"
      ],
      "url": "http://www.iqiyi.com/a_19rrj6sws5.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "孙红雷 郑玉 张恒",
      "episodes": "全50集",
@@ -1589,7 +1988,7 @@
      "baike_url": "https://baike.baidu.com/item/%E4%BA%BA%E9%97%B4%E6%AD%A3%E9%81%93%E6%98%AF%E6%B2%A7%E6%A1%91"
     },
     {
-     "rank": 16,
+     "rank": 36,
      "title": "特战荣耀",
      "cover": "http://pic9.iqiyipic.com/image/20231109/41/d1/a_100286954_m_601_m13.jpg",
      "desc": "杨洋演绎硬核军旅故事",
@@ -1599,7 +1998,7 @@
       "普通话"
      ],
      "url": "http://www.iqiyi.com/a_19rrhsq1gt.html",
-     "delta": 21,
+     "delta": 1,
      "heat": null,
      "cast": "杨洋 李一桐 蒋璐霞",
      "episodes": "全45集",
@@ -1610,7 +2009,7 @@
      "baike_url": "https://baike.baidu.com/item/%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80"
     },
     {
-     "rank": 17,
+     "rank": 37,
      "title": "暗算",
      "cover": "http://pic7.iqiyipic.com/image/20250225/53/cd/a_100125828_m_601_m11.jpg",
      "desc": "柳云龙谱写谍战传奇",
@@ -1620,7 +2019,7 @@
       "现代"
      ],
      "url": "http://www.iqiyi.com/a_19rrh0055x.html",
-     "delta": 21,
+     "delta": 1,
      "heat": null,
      "cast": "柳云龙 祝希娟 高明",
      "episodes": "全34集",
@@ -1631,7 +2030,7 @@
      "baike_url": "https://baike.baidu.com/item/%E6%9A%97%E7%AE%97"
     },
     {
-     "rank": 18,
+     "rank": 38,
      "title": "朱雀堂",
      "cover": "http://pic6.iqiyipic.com/image/20250724/c8/a2/a_100625138_m_601_m17.jpg",
      "desc": "万茜秦俊杰破五毒迷案",
@@ -1641,18 +2040,18 @@
       "汉唐"
      ],
      "url": "http://www.iqiyi.com/a_np0srhezax.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "万茜 秦俊杰 林乐炫",
      "episodes": "全30集",
      "updated_on": "2025-07-04",
-     "is_new": false,
+     "is_new": true,
      "director": "谢忠道",
      "premiere": "2025-07-04",
      "baike_url": "https://baike.baidu.com/item/%E6%9C%B1%E9%9B%80%E5%A0%82"
     },
     {
-     "rank": 19,
+     "rank": 39,
      "title": "五号特工组",
      "cover": "http://pic2.iqiyipic.com/image/20231109/1f/c1/a_100007822_m_601_m12.jpg",
      "desc": "中国版加里森敢死队",
@@ -1662,7 +2061,7 @@
       "军旅"
      ],
      "url": "http://www.iqiyi.com/a_19rrhbzno1.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "刘琳 于震 王丽坤",
      "episodes": "全30集",
@@ -1673,7 +2072,7 @@
      "baike_url": "https://baike.baidu.com/item/%E4%BA%94%E5%8F%B7%E7%89%B9%E5%B7%A5%E7%BB%84"
     },
     {
-     "rank": 20,
+     "rank": 40,
      "title": "神断狄仁杰",
      "cover": "http://pic4.iqiyipic.com/image/20241101/3a/50/a_50102303_m_601_m8.jpg",
      "desc": "第一神探再断奇案",
@@ -1683,7 +2082,7 @@
       "古装"
      ],
      "url": "http://www.iqiyi.com/a_19rrjact0x.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "梁冠华 张子健 吕中",
      "episodes": "全44集",
@@ -1694,7 +2093,7 @@
      "baike_url": "https://baike.baidu.com/item/%E7%A5%9E%E6%96%AD%E7%8B%84%E4%BB%81%E6%9D%B0"
     },
     {
-     "rank": 21,
+     "rank": 41,
      "title": "烈焰",
      "cover": "http://pic5.iqiyipic.com/image/20240417/8c/0b/a_100525916_m_601_m26.jpg",
      "desc": "任嘉伦重生护三界",
@@ -1704,7 +2103,7 @@
       "奇幻"
      ],
      "url": "http://www.iqiyi.com/a_nyl3ip0doh.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "任嘉伦 邢菲 祝绪丹",
      "episodes": "全40集",
@@ -1715,7 +2114,7 @@
      "baike_url": "https://baike.baidu.com/item/%E7%83%88%E7%84%B0"
     },
     {
-     "rank": 22,
+     "rank": 42,
      "title": "孤战迷城",
      "cover": "http://pic4.iqiyipic.com/image/20240728/d8/0b/a_100545344_m_601_m6.jpg",
      "desc": "黄景瑜辛芷蕾谍战交锋",
@@ -1725,7 +2124,7 @@
       "战争"
      ],
      "url": "http://www.iqiyi.com/a_29y3oknaivt.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "黄景瑜 辛芷蕾 马思超",
      "episodes": "全40集",
@@ -1736,7 +2135,7 @@
      "baike_url": "https://baike.baidu.com/item/%E5%AD%A4%E6%88%98%E8%BF%B7%E5%9F%8E"
     },
     {
-     "rank": 23,
+     "rank": 43,
      "title": "向风而行",
      "cover": "http://pic6.iqiyipic.com/image/20231109/c7/cc/a_100493610_m_601_m22.jpg",
      "desc": "双A搭档逐梦蓝天",
@@ -1746,7 +2145,7 @@
       "普通话"
      ],
      "url": "http://www.iqiyi.com/a_1mg3hv1oifp.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "王凯 谭松韵 刘畅",
      "episodes": "全39集",
@@ -1757,7 +2156,7 @@
      "baike_url": "https://baike.baidu.com/item/%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C"
     },
     {
-     "rank": 24,
+     "rank": 44,
      "title": "海狼行动",
      "cover": "http://pic5.iqiyipic.com/image/20220822/7d/12/a_50007281_m_601_m7.jpg",
      "desc": "骇客式特工海上大战",
@@ -1767,7 +2166,7 @@
       "谍战"
      ],
      "url": "http://www.iqiyi.com/a_19rrj60vk9.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "于震 施京明 李欣凌",
      "episodes": "全34集",
@@ -1778,7 +2177,7 @@
      "baike_url": "https://baike.baidu.com/item/%E6%B5%B7%E7%8B%BC%E8%A1%8C%E5%8A%A8"
     },
     {
-     "rank": 25,
+     "rank": 45,
      "title": "守诚者",
      "cover": "http://pic0.iqiyipic.com/image/20250703/ee/ac/a_100543678_m_601_m7.jpg",
      "desc": "陈小春李治廷携手护港",
@@ -1787,7 +2186,7 @@
       "都市"
      ],
      "url": "http://www.iqiyi.com/a_19654mvn2j5.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "陈小春 李治廷 韩雪",
      "episodes": "全24集",
@@ -1798,7 +2197,7 @@
      "baike_url": "https://baike.baidu.com/item/%E5%AE%88%E8%AF%9A%E8%80%85"
     },
     {
-     "rank": 26,
+     "rank": 46,
      "title": "铁齿铜牙纪晓岚第二部",
      "cover": "http://pic3.iqiyipic.com/image/20260115/c2/fd/a_50001560_m_601_m9.jpg",
      "desc": "铁三角再续书生传奇",
@@ -1808,7 +2207,7 @@
       "喜剧"
      ],
      "url": "http://www.iqiyi.com/a_19rrj6vhjh.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "张国立 王刚 张铁林",
      "episodes": "全43集",
@@ -1819,7 +2218,7 @@
      "baike_url": "https://baike.baidu.com/item/%E9%93%81%E9%BD%BF%E9%93%9C%E7%89%99%E7%BA%AA%E6%99%93%E5%B2%9A%E7%AC%AC%E4%BA%8C%E9%83%A8"
     },
     {
-     "rank": 27,
+     "rank": 47,
      "title": "特工任务",
      "cover": "http://pic1.iqiyipic.com/image/20231109/c4/6c/a_100502494_m_601_m18.jpg",
      "desc": "韩庚魏大勋邀你入局",
@@ -1829,7 +2228,7 @@
       "内地"
      ],
      "url": "http://www.iqiyi.com/a_1maeqm4nuzl.html",
-     "delta": 21,
+     "delta": 1,
      "heat": null,
      "cast": "韩庚 魏大勋 李一桐",
      "episodes": "全38集",
@@ -1840,13 +2239,13 @@
      "baike_url": "https://baike.baidu.com/item/%E7%89%B9%E5%B7%A5%E4%BB%BB%E5%8A%A1"
     },
     {
-     "rank": 28,
+     "rank": 48,
      "title": "她的生存之道",
      "cover": "http://pic4.iqiyipic.com/image/20250717/cd/75/a_100645611_m_601_m2.jpg",
      "desc": "走投无路 先吃一顿",
      "tags": [],
      "url": "http://www.iqiyi.com/a_26m9w2wnu3x.html",
-     "delta": 21,
+     "delta": 1,
      "heat": null,
      "cast": "窦靖童 王传君 颜丙燕",
      "episodes": "全24集",
@@ -1857,7 +2256,28 @@
      "baike_url": "https://baike.baidu.com/item/%E5%A5%B9%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93"
     },
     {
-     "rank": 29,
+     "rank": 49,
+     "title": "花千骨",
+     "cover": "http://pic2.iqiyipic.com/image/20240903/7f/7a/a_100012734_m_601_m22.jpg",
+     "desc": "白子画一心守护花千骨",
+     "tags": [
+      "内地",
+      "言情",
+      "古装"
+     ],
+     "url": "http://www.iqiyi.com/a_19rrhb16x1.html",
+     "delta": 0,
+     "heat": null,
+     "cast": "霍建华 赵丽颖 蒋欣",
+     "episodes": "全50集",
+     "updated_on": "2015-09-07",
+     "is_new": true,
+     "director": "梁胜权 高林豹",
+     "premiere": "2015-06-09",
+     "baike_url": "https://baike.baidu.com/item/%E8%8A%B1%E5%8D%83%E9%AA%A8"
+    },
+    {
+     "rank": 50,
      "title": "亲爱的你",
      "cover": "http://pic8.iqiyipic.com/image/20250627/83/b6/a_100623745_m_601_m6.jpg",
      "desc": "张一山李沁双向救赎",
@@ -1867,449 +2287,15 @@
       "家庭"
      ],
      "url": "http://www.iqiyi.com/a_2d476n57ea9.html",
-     "delta": 21,
+     "delta": 0,
      "heat": null,
      "cast": "张一山 李沁 阮巨",
      "episodes": "全29集",
      "updated_on": "2025-06-30",
-     "is_new": false,
+     "is_new": true,
      "director": "徐兵",
      "premiere": "2025-06-30",
      "baike_url": "https://baike.baidu.com/item/%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BD%A0"
-    },
-    {
-     "rank": 30,
-     "title": "回家的诱惑",
-     "cover": "http://pic7.iqiyipic.com/image/20220817/be/e4/a_50103992_m_601_m10.jpg",
-     "desc": "秋瓷炫变强势智斗小三",
-     "tags": [
-      "言情",
-      "家庭",
-      "内地"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrjaggst.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "秋瓷炫 李彩桦 凌潇肃",
-     "episodes": "全68集",
-     "updated_on": "2011-01-01",
-     "is_new": true,
-     "director": "林添一",
-     "premiere": "2011-01-01",
-     "baike_url": "https://baike.baidu.com/item/%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%AF%B1%E6%83%91"
-    },
-    {
-     "rank": 31,
-     "title": "新包青天",
-     "cover": "http://pic9.iqiyipic.com/image/20231226/a1/ef/a_50001568_m_601_m9.jpg",
-     "desc": "包大人办案与时俱进",
-     "tags": [
-      "罪案",
-      "武侠",
-      "古装"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrj6vgq5.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "金超群 何家劲 范鸿轩",
-     "episodes": "全61集",
-     "updated_on": "2008-01-01",
-     "is_new": true,
-     "director": "刘立立",
-     "premiere": "2008-01-01",
-     "baike_url": "https://baike.baidu.com/item/%E6%96%B0%E5%8C%85%E9%9D%92%E5%A4%A9"
-    },
-    {
-     "rank": 32,
-     "title": "五号特工组2",
-     "cover": "http://pic1.iqiyipic.com/image/20231120/b7/15/a_50177159_m_601_m11.jpg",
-     "desc": "中国版007倾情上演",
-     "tags": [
-      "内地",
-      "现代",
-      "谍战"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrk02fdd.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "于震 王丽坤 刘琳",
-     "episodes": "全32集",
-     "updated_on": "2012-01-01",
-     "is_new": true,
-     "director": "赵青",
-     "premiere": "2012-01-01",
-     "baike_url": "https://baike.baidu.com/item/%E4%BA%94%E5%8F%B7%E7%89%B9%E5%B7%A5%E7%BB%842"
-    },
-    {
-     "rank": 33,
-     "title": "欢乐颂5",
-     "cover": "http://pic1.iqiyipic.com/image/20240401/c3/d6/a_100567536_m_601_m12.jpg",
-     "desc": "22楼携手共赴新程",
-     "tags": [
-      "言情",
-      "剧情",
-      "都市"
-     ],
-     "url": "http://www.iqiyi.com/a_hq7wy4yath.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "江疏影 杨采钰 张佳宁",
-     "episodes": "全34集",
-     "updated_on": "2024-03-31",
-     "is_new": true,
-     "director": "简川訸",
-     "premiere": "2024-03-16",
-     "baike_url": "https://baike.baidu.com/item/%E6%AC%A2%E4%B9%90%E9%A2%825"
-    },
-    {
-     "rank": 34,
-     "title": "对决",
-     "cover": "http://pic9.iqiyipic.com/image/20231109/af/06/a_100459444_m_601_m12.jpg",
-     "desc": "欧豪王景春扫黑除恶",
-     "tags": [
-      "内地",
-      "罪案",
-      "当代"
-     ],
-     "url": "http://www.iqiyi.com/a_29sdsc1ln91.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "欧豪 王景春 吕晓霖",
-     "episodes": "全24集",
-     "updated_on": "2022-05-23",
-     "is_new": true,
-     "director": "周琳皓",
-     "premiere": "2022-05-10",
-     "baike_url": "https://baike.baidu.com/item/%E5%AF%B9%E5%86%B3"
-    },
-    {
-     "rank": 35,
-     "title": "胭脂",
-     "cover": "http://pic0.iqiyipic.com/image/20240930/28/47/a_100017331_m_601_m11.jpg",
-     "desc": "赵丽颖陆毅谍海角逐",
-     "tags": [
-      "悬疑",
-      "内地",
-      "军旅"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhbf1gp.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "赵丽颖 陆毅 陶昕然",
-     "episodes": "全45集",
-     "updated_on": "2016-09-27",
-     "is_new": true,
-     "director": "徐纪周",
-     "premiere": "2016-09-27",
-     "baike_url": "https://baike.baidu.com/item/%E8%83%AD%E8%84%82"
-    },
-    {
-     "rank": 36,
-     "title": "脱身",
-     "cover": "http://pic7.iqiyipic.com/image/20260125/6a/8a/a_100097820_m_601_m19.jpg",
-     "desc": "陈坤饰双胞胎飙演技",
-     "tags": [
-      "内地",
-      "言情",
-      "普通话"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhcvr45.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "陈坤 万茜 王耀庆",
-     "episodes": "全46集",
-     "updated_on": "2018-07-02",
-     "is_new": true,
-     "director": "林柯",
-     "premiere": "2018-06-11",
-     "baike_url": "https://baike.baidu.com/item/%E8%84%B1%E8%BA%AB"
-    },
-    {
-     "rank": 37,
-     "title": "灭罪",
-     "cover": "http://pic8.iqiyipic.com/image/20250520/c6/7c/a_100611140_m_601_m16.jpg",
-     "desc": "埋尸换命 疯批复仇",
-     "tags": [
-      "悬疑",
-      "罪案",
-      "内地"
-     ],
-     "url": "http://www.iqiyi.com/a_utgl8wkerp.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "费启鸣 王晓赟子 叶祖新",
-     "episodes": "全24集",
-     "updated_on": "2025-03-31",
-     "is_new": true,
-     "director": "司元甲",
-     "premiere": "2025-04-30",
-     "baike_url": "https://baike.baidu.com/item/%E7%81%AD%E7%BD%AA"
-    },
-    {
-     "rank": 38,
-     "title": "活佛济公3",
-     "cover": "http://pic0.iqiyipic.com/image/20260909/0c/9b/a_50201473_m_601_m5.jpg",
-     "desc": "陈浩民再续佛缘演济癫",
-     "tags": [
-      "神话",
-      "古装",
-      "喜剧"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrk7tqbt.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "陈浩民 林子聪 林江国",
-     "episodes": "全93集",
-     "updated_on": "2012-01-01",
-     "is_new": true,
-     "director": "林添一",
-     "baike_url": "https://baike.baidu.com/item/%E6%B4%BB%E4%BD%9B%E6%B5%8E%E5%85%AC3"
-    },
-    {
-     "rank": 39,
-     "title": "清平乐",
-     "cover": "http://pic7.iqiyipic.com/image/20260407/80/7e/a_100398936_m_601_m6.jpg",
-     "desc": "宋仁宗的传奇故事",
-     "tags": [
-      "历史",
-      "古装",
-      "宫廷"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhlp8vl.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "王凯 江疏影 任敏",
-     "episodes": "全69集",
-     "updated_on": "2026-04-03",
-     "is_new": true,
-     "director": "张开宙",
-     "premiere": "2020-04-07",
-     "baike_url": "https://baike.baidu.com/item/%E6%B8%85%E5%B9%B3%E4%B9%90"
-    },
-    {
-     "rank": 40,
-     "title": "消失的十一层",
-     "cover": "http://pic8.iqiyipic.com/image/20231109/5b/09/a_100535266_m_601_m21.jpg",
-     "desc": "警弟匪兄黑白对决",
-     "tags": [
-      "悬疑",
-      "内地",
-      "普通话"
-     ],
-     "url": "http://www.iqiyi.com/a_t59o3yjifh.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "潘粤明 陈数 果靖霖",
-     "episodes": "全24集",
-     "updated_on": "2023-07-15",
-     "is_new": true,
-     "director": "蒋卓原",
-     "premiere": "2023-07-09",
-     "baike_url": "https://baike.baidu.com/item/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8D%81%E4%B8%80%E5%B1%82"
-    },
-    {
-     "rank": 41,
-     "title": "决胜法庭",
-     "cover": "http://pic6.iqiyipic.com/image/20231109/f6/f9/a_100280816_m_601_m16.jpg",
-     "desc": "于和伟演绎法网柔情",
-     "tags": [
-      "罪案",
-      "内地",
-      "普通话"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhtlek9.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "于和伟 张佳宁 韩栋",
-     "episodes": "全40集",
-     "updated_on": "2020-02-05",
-     "is_new": true,
-     "director": "连奕名",
-     "premiere": "2020-02-02",
-     "baike_url": "https://baike.baidu.com/item/%E5%86%B3%E8%83%9C%E6%B3%95%E5%BA%AD"
-    },
-    {
-     "rank": 42,
-     "title": "二十一天",
-     "cover": "http://pic6.iqiyipic.com/image/20250624/08/7f/a_100545209_m_601_m9.jpg",
-     "desc": "13人天坑极限求生",
-     "tags": [
-      "悬疑",
-      "罪案"
-     ],
-     "url": "http://www.iqiyi.com/a_24965oxecg5.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "欧豪 张雪迎 王志文",
-     "episodes": "全12集",
-     "updated_on": "2024-09-29",
-     "is_new": true,
-     "director": "谢忠道",
-     "premiere": "2024-09-26",
-     "baike_url": "https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A9"
-    },
-    {
-     "rank": 43,
-     "title": "功夫战警",
-     "cover": "http://pic4.iqiyipic.com/image/20250523/c0/ac/a_100433227_m_601_m7.jpg",
-     "desc": "特警尖兵硬核开打",
-     "tags": [
-      "悬疑",
-      "罪案",
-      "内地"
-     ],
-     "url": "http://www.iqiyi.com/a_154m6vw7hzx.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "徐佳 牟星 徐洪浩",
-     "episodes": "全42集",
-     "updated_on": "2020-11-28",
-     "is_new": true,
-     "director": "天毅",
-     "premiere": "2020-12-02",
-     "baike_url": "https://baike.baidu.com/item/%E5%8A%9F%E5%A4%AB%E6%88%98%E8%AD%A6"
-    },
-    {
-     "rank": 44,
-     "title": "爱上海军蓝",
-     "cover": "http://pic8.iqiyipic.com/image/20250627/0c/0d/a_100645613_m_601_m3.jpg",
-     "desc": "金瀚宣璐护航蓝海",
-     "tags": [],
-     "url": "http://www.iqiyi.com/a_21qt1uw8w89.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "金瀚 宣璐 徐洋",
-     "episodes": "全34集",
-     "updated_on": "2025-07-14",
-     "is_new": true,
-     "director": "余淳 吕紫伯",
-     "premiere": "2025-07-02",
-     "baike_url": "https://baike.baidu.com/item/%E7%88%B1%E4%B8%8A%E6%B5%B7%E5%86%9B%E8%93%9D"
-    },
-    {
-     "rank": 45,
-     "title": "枪械师",
-     "cover": "http://pic7.iqiyipic.com/image/20260526/e6/38/a_100084196_m_601_m4.jpg",
-     "desc": "从敌对到合作共同抗日",
-     "tags": [
-      "悬疑",
-      "普通话",
-      "剧情"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhf06mt.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "吕良伟 谢君豪 林家川",
-     "episodes": "全36集",
-     "updated_on": "2026-04-22",
-     "is_new": true,
-     "director": "张汉杰",
-     "premiere": "2013-05-12",
-     "baike_url": "https://baike.baidu.com/item/%E6%9E%AA%E6%A2%B0%E5%B8%88"
-    },
-    {
-     "rank": 46,
-     "title": "仙剑四",
-     "cover": "http://pic6.iqiyipic.com/image/20240201/d2/c1/a_100560336_m_601_m21.jpg",
-     "desc": "热血护苍生",
-     "tags": [
-      "言情",
-      "古装"
-     ],
-     "url": "http://www.iqiyi.com/a_dwo684rau1.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "鞠婧祎 陈哲远 茅子俊",
-     "episodes": "全36集",
-     "updated_on": "2024-01-30",
-     "is_new": true,
-     "director": "杨玄",
-     "premiere": "2024-01-17",
-     "baike_url": "https://baike.baidu.com/item/%E4%BB%99%E5%89%91%E5%9B%9B"
-    },
-    {
-     "rank": 47,
-     "title": "民初奇人传",
-     "cover": "http://pic4.iqiyipic.com/image/20231109/b8/5f/a_100147614_m_601_m28.jpg",
-     "desc": "欧豪谭松韵谱写奇人传",
-     "tags": [
-      "内地",
-      "近代",
-      "民国"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrgxkm2t.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "欧豪 谭松韵 王紫璇",
-     "episodes": "全34集",
-     "updated_on": "2020-06-18",
-     "is_new": true,
-     "director": "杨述 刘坦",
-     "premiere": "2020-06-12",
-     "baike_url": "https://baike.baidu.com/item/%E6%B0%91%E5%88%9D%E5%A5%87%E4%BA%BA%E4%BC%A0"
-    },
-    {
-     "rank": 48,
-     "title": "苍狼",
-     "cover": "http://pic8.iqiyipic.com/image/20231110/c5/a0/a_100008407_m_601_m11.jpg",
-     "desc": "苍狼与日军斗智斗勇",
-     "tags": [
-      "内地",
-      "军旅",
-      "谍战"
-     ],
-     "url": "http://www.iqiyi.com/a_19rrhc464h.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "潘泰名 章雯淇 毛俊杰",
-     "episodes": "全46集",
-     "updated_on": "2014-12-10",
-     "is_new": true,
-     "director": "徐善杰",
-     "premiere": "2013-10-29",
-     "baike_url": "https://baike.baidu.com/item/%E8%8B%8D%E7%8B%BC"
-    },
-    {
-     "rank": 49,
-     "title": "真相半白",
-     "cover": "http://pic6.iqiyipic.com/image/20250629/db/c4/a_100636239_m_601_m10.jpg",
-     "desc": "医疗黑幕 碎尸迷案",
-     "tags": [
-      "悬疑",
-      "内地",
-      "普通话"
-     ],
-     "url": "http://www.iqiyi.com/a_1ggw7a7491l.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "张博 曹曦文 季晨",
-     "episodes": "全25集",
-     "updated_on": "2025-06-25",
-     "is_new": true,
-     "director": "陈静",
-     "premiere": "2025-06-25",
-     "baike_url": "https://baike.baidu.com/item/%E7%9C%9F%E7%9B%B8%E5%8D%8A%E7%99%BD"
-    },
-    {
-     "rank": 50,
-     "title": "大明悬案录之鉴影篇",
-     "cover": "http://pic3.iqiyipic.com/image/20250708/4c/07/a_100652207_m_601_m3.jpg",
-     "desc": "察人性善恶鉴人心勇怯",
-     "tags": [
-      "悬疑",
-      "武侠",
-      "古装"
-     ],
-     "url": "http://www.iqiyi.com/a_oildz7cdep.html",
-     "delta": 0,
-     "heat": null,
-     "cast": "陈名豪 余芷慧 曾怀毅",
-     "episodes": "全27集",
-     "updated_on": "2025-07-25",
-     "is_new": true,
-     "director": "刘赫（导演）",
-     "premiere": "2025-07-25",
-     "baike_url": "https://baike.baidu.com/item/%E5%A4%A7%E6%98%8E%E6%82%AC%E6%A1%88%E5%BD%95%E4%B9%8B%E9%89%B4%E5%BD%B1%E7%AF%87"
     }
    ],
    "upcoming": [
@@ -3629,7 +3615,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/875804.html",
-     "delta": 0,
+     "delta": 23,
      "heat": null,
      "cast": "张一山,谭卓,曹磊",
      "episodes": "更新至14集",
@@ -3649,7 +3635,7 @@
       "悬疑"
      ],
      "url": "https://www.mgtv.com/h/642790.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "丁禹兮,邓恩熙,茅子俊",
      "episodes": "全40集",
@@ -3669,7 +3655,7 @@
       "悬疑"
      ],
      "url": "https://www.mgtv.com/h/857348.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "任运杰,戚砚笛",
      "episodes": "全24集",
@@ -3687,7 +3673,7 @@
       "古装"
      ],
      "url": "https://www.mgtv.com/h/705834.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "cast": "侯明昊,娜扎,陈若轩",
      "episodes": "全36集",
@@ -3706,7 +3692,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/763701.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "关晓彤,李昀锐",
      "episodes": "全30集",
@@ -3744,7 +3730,7 @@
       "都市"
      ],
      "url": "https://www.mgtv.com/h/851666.html",
-     "delta": 0,
+     "delta": 2,
      "heat": null,
      "cast": "钟雅婷,陈圣亨,姚星灏",
      "episodes": "全24集",
@@ -3760,7 +3746,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/783747.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "包上恩,周柯宇,赵英博",
      "episodes": "全29集",
@@ -3780,7 +3766,7 @@
       "喜剧"
      ],
      "url": "https://www.mgtv.com/h/293295.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "李晟,海陆,张睿",
      "episodes": "全98集",
@@ -3798,7 +3784,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/895540.html",
-     "delta": 0,
+     "delta": -6,
      "heat": null,
      "cast": "周憬艺,舒童,魏尊",
      "episodes": "全25集",
@@ -3818,7 +3804,7 @@
       "古装"
      ],
      "url": "https://www.mgtv.com/h/617394.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "卢昱晓,王星越,倪虹洁",
      "episodes": "全36集",
@@ -3875,7 +3861,7 @@
       "青春"
      ],
      "url": "https://www.mgtv.com/h/333900.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "cast": "谭松韵,宋威龙,张新成",
      "episodes": "全46集",
@@ -3894,7 +3880,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/450993.html",
-     "delta": 0,
+     "delta": 3,
      "heat": null,
      "cast": "井柏然,谭松韵,李岷城",
      "episodes": "全30集",
@@ -3914,7 +3900,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/525991.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "cast": "蔡文静,韩东君,耿乐",
      "episodes": "全14集",
@@ -3933,7 +3919,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/648984.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "宋威龙,包上恩,代露娃",
      "episodes": "全30集",
@@ -3953,7 +3939,7 @@
       "喜剧"
      ],
      "url": "https://www.mgtv.com/h/419629.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "cast": "张嘉益,闫妮,赵今麦",
      "episodes": "全40集",
@@ -3970,7 +3956,7 @@
       "都市"
      ],
      "url": "https://www.mgtv.com/h/685612.html",
-     "delta": 0,
+     "delta": -5,
      "heat": null,
      "cast": "张嘉益,陈好,王晓晨",
      "episodes": "全40集",
@@ -3990,7 +3976,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/509691.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "杨洋,王楚然,王彦霖",
      "episodes": "全40集",
@@ -4010,7 +3996,7 @@
       "职场"
      ],
      "url": "https://www.mgtv.com/h/625757.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "张佳宁,魏哲鸣,王真儿",
      "episodes": "全32集",
@@ -4048,7 +4034,7 @@
       "芒果出品"
      ],
      "url": "https://www.mgtv.com/h/465095.html",
-     "delta": 0,
+     "delta": 3,
      "heat": null,
      "cast": "孙千,魏哲鸣,白澍",
      "episodes": "全30集",
@@ -4067,7 +4053,7 @@
       "家庭"
      ],
      "url": "https://www.mgtv.com/h/601001.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "cast": "张嘉益,陈好,王晓晨",
      "episodes": "全40集",
@@ -4087,7 +4073,7 @@
       "年代"
      ],
      "url": "https://www.mgtv.com/h/743674.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "梅婷,田雨,陈昊宇",
      "episodes": "全40集",
@@ -4107,7 +4093,7 @@
       "喜剧"
      ],
      "url": "https://www.mgtv.com/h/904625.html",
-     "delta": 0,
+     "delta": 18,
      "heat": null,
      "cast": "林柒予,刘昱晗,王炳翔",
      "episodes": "全24集",
@@ -4126,7 +4112,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/510466.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "白鹿,王鹤棣,魏哲鸣",
      "episodes": "全36集",
@@ -4145,7 +4131,7 @@
       "古装"
      ],
      "url": "https://www.mgtv.com/h/771610.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "cast": "周也,丞磊,张康乐",
      "episodes": "全36集",
@@ -4165,7 +4151,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/348764.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "许凯,吴谨言,王楚然",
      "episodes": "全40集",
@@ -4203,7 +4189,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/730633.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "cast": "张予曦,毕雯珺,张小婉",
      "episodes": "全26集",
@@ -4223,7 +4209,7 @@
       "古装"
      ],
      "url": "https://www.mgtv.com/h/613743.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "罗云熙,肖顺尧,敖子逸",
      "episodes": "全40集",
@@ -4242,7 +4228,7 @@
       "抗战"
      ],
      "url": "https://www.mgtv.com/h/388411.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "cast": "邢佳栋,屈玥,薛皓文",
      "episodes": "全32集",
@@ -4261,7 +4247,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/631449.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "辛芷蕾,白客,张子贤",
      "episodes": "全40集",
@@ -4281,7 +4267,7 @@
       "悬疑"
      ],
      "url": "https://www.mgtv.com/h/457600.html",
-     "delta": 0,
+     "delta": 4,
      "heat": null,
      "cast": "柯颖,丞磊,王泽轩",
      "episodes": "全18集",
@@ -4300,7 +4286,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/873435.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "徐佳,刘晓洁,安雅萍",
      "episodes": "全43集",
@@ -4320,7 +4306,7 @@
       "都市"
      ],
      "url": "https://www.mgtv.com/h/317315.html",
-     "delta": 0,
+     "delta": -5,
      "heat": null,
      "cast": "王俊凯 王源 易烊千玺 薛之谦",
      "episodes": "全40集",
@@ -4338,7 +4324,7 @@
       "校园"
      ],
      "url": "https://www.mgtv.com/h/363132.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "陈哲远,徐梦洁,王泽轩",
      "episodes": "全24集",
@@ -4357,7 +4343,7 @@
       "爱情"
      ],
      "url": "https://www.mgtv.com/h/323720.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "赵丽颖,陈晓,乔任梁",
      "episodes": "全45集",
@@ -4375,7 +4361,7 @@
       "古装"
      ],
      "url": "https://www.mgtv.com/h/831269.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "cast": "侯明昊,娜扎",
      "episodes": "全111集",
@@ -4389,7 +4375,7 @@
      "desc": "芒果TV以2026年度重磅情感内容为核心起点，全面整合剧集、综艺、电影、动漫及AIGC内容生态，联动创意衍生内容、互动产品升级、AI影像大赛、用户福利回馈等多元玩法，打造当代女性寻",
      "tags": [],
      "url": "https://www.mgtv.com/h/868734.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "",
      "episodes": "更新至10集",
@@ -4406,7 +4392,7 @@
       "都市"
      ],
      "url": "https://www.mgtv.com/h/603354.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "cast": "谭松韵,许凯,何瑞贤",
      "episodes": "全40集",
@@ -4425,7 +4411,7 @@
       "剧情"
      ],
      "url": "https://www.mgtv.com/h/605553.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "cast": "张译,殷桃,陶泽如",
      "episodes": "全58集",
@@ -4448,7 +4434,7 @@
      "heat": null,
      "cast": "魏哲鸣,黄日莹,杨仕泽",
      "episodes": "全24集",
-     "is_new": false,
+     "is_new": true,
      "director": "刘栋",
      "premiere": "2023-11-25",
      "baike_url": "https://baike.baidu.com/item/%E5%AF%B9%E4%BD%A0%E4%B8%8D%E6%AD%A2%E6%98%AF%E5%96%9C%E6%AC%A2"
@@ -4522,7 +4508,7 @@
     {
      "rank": 1,
      "title": "早春晴朗",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/8a2704b1a177427eb8256e47e0ccdeaa.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/68741dc935e84c478de12126a1827c00.webp.jpg",
      "desc": "北漂伊始的尚之桃与极具天赋的“鬼才”栾念狭路相逢，二人在都市丛林中极限拉扯、分分合合。",
      "tags": [
       "当代",
@@ -4562,7 +4548,7 @@
     {
      "rank": 3,
      "title": "九门",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/ccc7426e6e7c42ddb07245bcbd8e894f.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/21918b8e743f4478a7f14e86011e9c6e.webp.jpg",
      "desc": "401部队被下蛊离奇失踪，张启山吴老狗强强联手，携霍仙姑与九门诸人闯“隔世楼”解迷局。",
      "tags": [
       "当代",
@@ -4582,7 +4568,7 @@
     {
      "rank": 4,
      "title": "师兄太稳健",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/cd4b878720a74a75a1446a1704500fd9.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/67f45b4f42f1417aae1754ac7910179a.webp.jpg",
      "desc": "重生洪荒的李长寿稳健求生，苟道修仙笑料频频；阴谋天劫皆可算计，低调布局终成护世传奇！",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_fcad042e84ef43ce8309.html",
@@ -4598,13 +4584,13 @@
     {
      "rank": 5,
      "title": "一瓯春",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/52f1998325e1402480ac72012840f8e1.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/494cc84bbbc74f1a9bbb80d791055490.webp.jpg",
      "desc": "沈润深藏不露肃查横塘，谢清圆智计过人归府洗冤。两人重逢不识却再动真心，终成眷侣。",
      "tags": [],
      "url": "https://so.youku.com/search_video/q_%E4%B8%80%E7%93%AF%E6%98%A5",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "许凯 周也 白澍 闵春晓",
      "director": "潘安子",
      "premiere": "2026-09-17",
@@ -4645,7 +4631,7 @@
     {
      "rank": 8,
      "title": "翘楚",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/8d5df9e2761a4ec9a2798be7b0958015.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/c5702ffebdbe4750aeb02200d728a039.webp.jpg",
      "desc": "楚朝为改变灭族的可悲命运主动出击，与谢燕来携手，助皇孙登基，让大楚百姓远离战火。",
      "tags": [
       "剧情",
@@ -4748,7 +4734,7 @@
      "url": "https://so.youku.com/search_video/q_%E6%96%97%E5%B8%9D%E6%89%93%E9%87%91%E4%BC%A0%E5%A5%87",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E6%96%97%E5%B8%9D%E6%89%93%E9%87%91%E4%BC%A0%E5%A5%87"
     },
     {
@@ -4762,7 +4748,7 @@
       "罪案"
      ],
      "url": "https://v.youku.com/v_show/id_cbfbd13a962411de83b1.html",
-     "delta": 0,
+     "delta": 1,
      "heat": null,
      "is_new": false,
      "cast": "王学兵 李涓 苗圃",
@@ -4778,7 +4764,7 @@
      "desc": "前妻携子归来，为房产强行求“同居”，逼他做三个月“假父亲”，求婚计划陷危机！",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_cc16a5aa962411de83b1.html",
-     "delta": 0,
+     "delta": 3,
      "heat": null,
      "is_new": false,
      "cast": "张嘉益 陈瑾 李梅 桑平",
@@ -4790,26 +4776,26 @@
     {
      "rank": 16,
      "title": "现在，正在分手中",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/2b72a39035d147098caf292c6419a3fd.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/19d17517983b43e4a150f8f60812d81b.webp.jpg",
      "desc": "女强人设计师与年轻摄影师的浪漫邂逅，一段充满激情与挑战的姐弟恋悄然绽放。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_cdffa47e97f741808d6e.html",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E7%8E%B0%E5%9C%A8%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%88%86%E6%89%8B%E4%B8%AD"
     },
     {
      "rank": 17,
      "title": "天赐仇爱",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/4fff6fa29b09413d8cc47d6b2f4344ff.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/ef0d2f34ebd64fab96b4e26123326796.webp.jpg",
      "desc": "失去双亲的戴拉遭不公审判入狱，获释后在商界巨鳄杨的帮助下，与仇敌家族展开对决。",
      "tags": [
       "爱情",
       "剧情"
      ],
      "url": "https://v.youku.com/v_show/id_ffebb78f84c547b2a2d8.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "premiere": "2024-11-27",
@@ -4819,14 +4805,14 @@
     {
      "rank": 18,
      "title": "新笑傲江湖",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/25bbbc30aebf435588ea29a1981f05f3.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/f75f329324f34f2398b3ab43debd3925.webp.jpg",
      "desc": "暗潮涌动的江湖，令狐冲卷入正邪之争，绝学争夺中逐步成长为一代江湖大侠。",
      "tags": [
       "古装",
       "剧情"
      ],
      "url": "https://v.youku.com/v_show/id_efbfbd29efbfbd773628.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "丁冠森 薛昊婧",
@@ -4837,7 +4823,7 @@
     {
      "rank": 19,
      "title": "悬案",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/f5b89a7f40304816a68a86a6a9ff0fad.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/3024c4f5fa1a43fd9b56e2b1ecd88a76.webp.jpg",
      "desc": "两起悬案，二十余年，追凶岁月里的各自淬炼，终以责任与执念共同告破。",
      "tags": [
       "当代",
@@ -4845,7 +4831,7 @@
       "犯罪"
      ],
      "url": "https://v.youku.com/v_show/id_acbefaed57994c07b881.html",
-     "delta": 0,
+     "delta": -14,
      "heat": null,
      "is_new": false,
      "cast": "岳云鹏 王传君",
@@ -4856,7 +4842,7 @@
     {
      "rank": 20,
      "title": "千香",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/338f92a0020445bc80455cdd59fcc3b8.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/2d42edca59b445e099fe8656d2af5ccd.webp.jpg",
      "desc": "落魄少年和青丘孤女两个各怀心思的“异类”，在互坑的道路上并肩前行，身世之谜也逐渐揭开。",
      "tags": [
       "虚构朝代",
@@ -4864,7 +4850,7 @@
       "奇幻"
      ],
      "url": "https://v.youku.com/v_show/id_aaba57bec65242f187b5.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "宋威龙 鞠婧祎 赵华为 刘梦芮",
@@ -4880,7 +4866,7 @@
      "desc": "名门穷小姐范云与白切黑城主齐峥携手破局解危、为民谋利，终获爱情并共筑繁荣九城。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_07efbfbd394a39efbfbd.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "李一桐 曾舜晞 邓为 代露娃",
@@ -4892,11 +4878,11 @@
     {
      "rank": 22,
      "title": "娘道",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/b6d4337391cc4d069fba9737b15a8819.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/230105c13f0943e09f4755ce5ab5add7.webp.jpg",
      "desc": "瑛姑历经丧夫、入狱、失子之痛，苦寻子女十五载，终以无私母爱感动众人，实现全家团圆。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_efbfbd7019efbfbdd5a9.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "岳丽娜 于毅 张少华 史可",
@@ -4914,7 +4900,7 @@
       "清平乐"
      ],
      "url": "https://v.youku.com/v_show/id_af7cf8c24cf048a7b80d.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "王凯 江疏影 任敏 杨玏",
@@ -4934,7 +4920,7 @@
       "爱情"
      ],
      "url": "https://v.youku.com/v_show/id_efbabead49894ce7ae07.html",
-     "delta": 0,
+     "delta": -1,
      "heat": null,
      "is_new": false,
      "cast": "杨紫 井柏然",
@@ -4946,26 +4932,26 @@
     {
      "rank": 25,
      "title": "《南风知我意》精简版",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/85c1a846cbec423a93e327e8872bc7ff.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/97e86bfb31d041d29b1d38632b72a8d1.webp.jpg",
      "desc": "傅云深与朱旧两心相许，事故后他斩断联系。一年后朱旧以医生身份与他重逢，陪他走出低谷。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_bfcc4fff35384b249f04.html",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "baike_url": "https://baike.baidu.com/item/%E3%80%8A%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E3%80%8B%E7%B2%BE%E7%AE%80%E7%89%88"
     },
     {
      "rank": 26,
      "title": "樱桃琥珀",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/72d23c63a471495db1e3ecbaaa15e4fc.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/a285616c0e2041069d3d77d281f30651.webp.jpg",
      "desc": "小太阳林其乐与天才少年蒋峤西，青梅竹马变天降，解除误会共克难题，清甜初恋甜蜜升级。",
      "tags": [
       "爱情",
       "剧情"
      ],
      "url": "https://v.youku.com/v_show/id_ccaae91a82cf49e4a6fe.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "赵今麦 张凌赫 董洁 保剑锋",
@@ -4987,7 +4973,7 @@
      "url": "https://v.youku.com/v_show/id_cefc6316e417424780c5.html",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "刘浩存 林一 黄圣池 范诗然",
      "director": "沈阳",
      "premiere": "2023-12-14",
@@ -4997,7 +4983,7 @@
     {
      "rank": 28,
      "title": "新生",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/27fb729a91304b3395345954520cff2e.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/178e79da8ab34c5492119f00ce7269d1.webp.jpg",
      "desc": "费可的追思会上，五位受邀的陌生人各自回溯与费可的过往，逐步揭开了关于费可的真相。",
      "tags": [
       "情感悬疑",
@@ -5005,7 +4991,7 @@
       "剧情"
      ],
      "url": "https://v.youku.com/v_show/id_addde89044c9491a92f7.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "cast": "井柏然 周依然 张艺凡 彭杨",
@@ -5017,7 +5003,7 @@
     {
      "rank": 29,
      "title": "蜀锦人家",
-     "cover": "http://liangcang-material.alicdn.com/prod/upload/d92084b55e57499bb57d063469fc5144.webp.jpg",
+     "cover": "http://liangcang-material.alicdn.com/prod/upload/f4ba3b3ffa0f4d3bade28cd686238870.webp.jpg",
      "desc": "季家小娘子季英英智斗假锦案，重振家族荣光，与杨静澜联手破解迷案，守护蜀锦传承。",
      "tags": [
       "古装爱情",
@@ -5025,7 +5011,7 @@
       "虚构朝代"
      ],
      "url": "https://v.youku.com/v_show/id_dbaec98a534746888182.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "cast": "谭松韵 郑业成 经超 陈小纭",
@@ -5045,7 +5031,7 @@
       "偶像爱情"
      ],
      "url": "https://v.youku.com/v_show/id_aefa5bc564b44f50ae4d.html",
-     "delta": 0,
+     "delta": -3,
      "heat": null,
      "is_new": false,
      "cast": "白敬亭 章若楠",
@@ -5066,7 +5052,7 @@
      "url": "https://v.youku.com/v_show/id_acdf7d2eff5f46a9a7bd.html",
      "delta": 0,
      "heat": null,
-     "is_new": false,
+     "is_new": true,
      "cast": "吴谨言 王星越 陈鑫海 陈乔恩",
      "director": "白云默",
      "premiere": "2024-06-02",
@@ -5084,7 +5070,7 @@
       "女性传奇"
      ],
      "url": "https://v.youku.com/v_show/id_edef4f8f34814e47afd0.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "赵今麦 张凌赫 陈鹤一 刘旭威",
@@ -5104,7 +5090,7 @@
       "爱情"
      ],
      "url": "https://v.youku.com/v_show/id_deea7e54c2594c489bfd.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "周也 王星越 彭楚粤 张逸杰",
@@ -5123,7 +5109,7 @@
       "古装"
      ],
      "url": "https://v.youku.com/v_show/id_fdbc8a2153244d269f76.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "黄俊捷 孙千",
@@ -5143,7 +5129,7 @@
       "古装"
      ],
      "url": "https://v.youku.com/v_show/id_dacbdc8c3f364e1da55f.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "白鹿 王一哲 金晨 郑湫泓",
@@ -5159,7 +5145,7 @@
      "desc": "上古遗族颜淡与应渊历经八百年情劫。与九鳍余墨相依，共助天师唐周寻神器，终识真爱。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_ebafe29c0cce4861bc1a.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "baike_url": "https://baike.baidu.com/item/%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%C2%B7%E6%B2%89%E9%A6%99%E9%87%8D%E5%8D%8E"
@@ -5175,7 +5161,7 @@
       "宅门风云"
      ],
      "url": "https://v.youku.com/v_show/id_bfde784a1c4c47389165.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "刘学义",
@@ -5194,7 +5180,7 @@
       "爱情"
      ],
      "url": "https://v.youku.com/v_show/id_adffc358fe204c07b2d2.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "陈飞宇 王影璐 王奕婷 高寒",
@@ -5210,7 +5196,7 @@
      "desc": "凡人少女肖瑶误入万妖谷，与妖王红烨卷入神秘怪案。两人携手对抗强敌，揭开玉醴泉背后纷争。",
      "tags": [],
      "url": "https://v.youku.com/v_show/id_cfedcd80d8ba4564bed5.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "谭松韵 侯明昊 汪铎 黄家婧",
@@ -5229,7 +5215,7 @@
       "古装"
      ],
      "url": "https://v.youku.com/v_show/id_dfafa37d253049e99eef.html",
-     "delta": 0,
+     "delta": -2,
      "heat": null,
      "is_new": false,
      "cast": "胡冰卿 翟子路 贺鹏 丁笑滢",
@@ -5967,17 +5953,17 @@
    {
     "platform": "iqiyi",
     "title": "一瓯春",
-    "cover": "http://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
+    "cover": "https://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
     "premiere": "2026-09-17",
     "days_ago": 3,
-    "rank": 1,
-    "cast": "许凯 周也 白澍",
-    "desc": "双强联手 入局复仇",
+    "rank": 2,
+    "cast": "许凯 周也",
+    "desc": "“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于高门大户里明争暗斗，立朝堂官场上搅弄风云。最终他们走出暗流深渊，奔赴璀璨新生。",
     "episodes": "全30集",
     "url": "http://www.iqiyi.com/a_2b9ocx2qugh.html",
     "baike_url": "https://baike.baidu.com/item/%E4%B8%80%E7%93%AF%E6%98%A5",
     "tags": [
-     "言情",
+     "复仇",
      "古装"
     ]
    },
@@ -5987,7 +5973,7 @@
     "cover": "http://pic5.iqiyipic.com/image/20260915/32/7f/a_101474514_m_601_m3.jpg",
     "premiere": "2026-09-17",
     "days_ago": 3,
-    "rank": 5,
+    "rank": 26,
     "cast": "阿空 阎魔",
     "desc": "天降少女情定寒潭",
     "episodes": "全24集",
@@ -6005,7 +5991,7 @@
     "cover": "http://pic4.iqiyipic.com/image/20260910/24/d5/a_101440228_m_601_m3.jpg",
     "premiere": "2026-09-17",
     "days_ago": 3,
-    "rank": 6,
+    "rank": 27,
     "cast": "王佳玉 姜之南 胡潇悦",
     "desc": "步步为营，阶阶荣耀",
     "episodes": "全24集",
@@ -6020,19 +6006,18 @@
    {
     "platform": "iqiyi",
     "title": "车轮下的真相",
-    "cover": "http://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
+    "cover": "https://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
     "premiere": "2026-09-16",
     "days_ago": 4,
-    "rank": 4,
-    "cast": "于小彤 王智勇(王睿子) 张可盈",
-    "desc": "全员恶人 反转局中局",
+    "rank": 7,
+    "cast": "于小彤 王智勇(王睿子)",
+    "desc": "曾任职刑警的交警李星辰，在一个雨夜接手一桩离奇车祸案。企业家高玉海意外殒命，现场遭一名假交警清理破坏，关键证据被抹除。市局成立专案组由李星辰牵头彻查此案。肇事司机沈溪看似与死者毫无",
     "episodes": "全30集",
     "url": "http://www.iqiyi.com/a_1lj0zydzzu9.html",
     "baike_url": "https://baike.baidu.com/item/%E8%BD%A6%E8%BD%AE%E4%B8%8B%E7%9A%84%E7%9C%9F%E7%9B%B8",
     "tags": [
-     "悬疑",
-     "罪案",
-     "内地"
+     "警匪",
+     "悬疑"
     ]
    },
    {
@@ -6041,7 +6026,7 @@
     "cover": "http://pic5.iqiyipic.com/image/20260911/be/88/a_101458921_m_601_m4.jpg",
     "premiere": "2026-09-15",
     "days_ago": 5,
-    "rank": 7,
+    "rank": 28,
     "cast": "刘胤君 文景芝 龚婉怡",
     "desc": "逆天改命却步步皆局",
     "episodes": "全24集",
@@ -6056,17 +6041,18 @@
    {
     "platform": "iqiyi",
     "title": "深渊无间",
-    "cover": "http://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
+    "cover": "https://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
     "premiere": "2026-09-09",
     "days_ago": 11,
-    "rank": 2,
-    "cast": "任嘉伦 秦俊杰 王砚辉",
-    "desc": "凶案连载悬疑剧",
+    "rank": 3,
+    "cast": "任嘉伦 秦俊杰",
+    "desc": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终",
     "episodes": "全16集",
     "url": "http://www.iqiyi.com/a_okv7zmsbr1.html",
     "baike_url": "https://baike.baidu.com/item/%E6%B7%B1%E6%B8%8A%E6%97%A0%E9%97%B4",
     "tags": [
-     "悬疑"
+     "悬疑",
+     "罪案"
     ]
    },
    {
@@ -6075,7 +6061,7 @@
     "cover": "http://pic4.iqiyipic.com/image/20260914/4a/8a/a_101293765_m_601_m5.jpg",
     "premiere": "2026-09-08",
     "days_ago": 12,
-    "rank": 10,
+    "rank": 31,
     "cast": "丁笑滢 贺鹏",
     "desc": "带崽还债，全家逆袭",
     "episodes": "全24集",
@@ -6090,35 +6076,255 @@
    {
     "platform": "iqiyi",
     "title": "生逢其时",
-    "cover": "http://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
+    "cover": "https://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
     "premiere": "2026-09-03",
     "days_ago": 17,
-    "rank": 3,
-    "cast": "王子奇 关晓彤 刘琳",
-    "desc": "生而无畏 恰逢其时",
+    "rank": 1,
+    "cast": "王子奇 关晓彤",
+    "desc": "青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样",
     "episodes": "全26集",
     "url": "http://www.iqiyi.com/a_nvusovhwc5.html",
     "baike_url": "https://baike.baidu.com/item/%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6",
     "tags": [
-     "家庭"
+     "家庭",
+     "年代"
     ]
    },
    {
     "platform": "iqiyi",
-    "title": "大明悬案录之鉴影篇",
-    "cover": "http://pic3.iqiyipic.com/image/20250708/4c/07/a_100652207_m_601_m3.jpg",
-    "premiere": "2025-07-25",
-    "days_ago": 422,
-    "rank": 50,
-    "cast": "陈名豪 余芷慧 曾怀毅",
-    "desc": "察人性善恶鉴人心勇怯",
-    "episodes": "全27集",
-    "url": "http://www.iqiyi.com/a_oildz7cdep.html",
-    "baike_url": "https://baike.baidu.com/item/%E5%A4%A7%E6%98%8E%E6%82%AC%E6%A1%88%E5%BD%95%E4%B9%8B%E9%89%B4%E5%BD%B1%E7%AF%87",
+    "title": "重案六组：消失的警号",
+    "cover": "https://pic4.iqiyipic.com/image/20260904/1d/cd/a_101315007_m_601_m9.jpg",
+    "premiere": "2026-08-31",
+    "days_ago": 20,
+    "rank": 5,
+    "cast": "张一山 李沐宸",
+    "desc": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动",
+    "episodes": "全26集",
+    "url": "http://www.iqiyi.com/a_20iro6do9dl.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7",
+    "tags": [
+     "罪案",
+     "悬疑"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "醒来",
+    "cover": "https://pic8.iqiyipic.com/image/20260828/1a/e7/a_100684407_m_601_m10.jpg",
+    "premiere": "2026-08-26",
+    "days_ago": 25,
+    "rank": 4,
+    "cast": "欧豪 娜扎",
+    "desc": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门",
+    "episodes": "全22集",
+    "url": "http://www.iqiyi.com/a_1ojttm1bmpp.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%86%92%E6%9D%A5",
+    "tags": [
+     "谍战",
+     "年代"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "师兄太稳健",
+    "cover": "https://pic4.iqiyipic.com/image/20260817/f1/74/a_101283421_m_601_m3.jpg",
+    "premiere": "2026-08-19",
+    "days_ago": 32,
+    "rank": 9,
+    "cast": "敖瑞鹏 孙珍妮",
+    "desc": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、",
+    "episodes": "全30集",
+    "url": "http://www.iqiyi.com/a_mo3lnx7h41.html",
+    "baike_url": "https://baike.baidu.com/item/%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5",
+    "tags": [
+     "古装"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "重器",
+    "cover": "https://pic8.iqiyipic.com/image/20260812/f7/2b/a_100624469_m_601_m7.jpg",
+    "premiere": "2026-08-10",
+    "days_ago": 41,
+    "rank": 6,
+    "cast": "黄景瑜 蒋奇明",
+    "desc": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼",
+    "episodes": "全33集",
+    "url": "http://www.iqiyi.com/a_10818unjun5.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E5%99%A8",
+    "tags": [
+     "剧情",
+     "年代"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "凛冬下的罪恶",
+    "cover": "https://pic4.iqiyipic.com/image/20260806/d6/d7/a_100922154_m_601_m7.jpg",
+    "premiere": "2026-08-04",
+    "days_ago": 47,
+    "rank": 22,
+    "cast": "吴昊宸 张睿",
+    "desc": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二",
+    "episodes": "全26集",
+    "url": "http://www.iqiyi.com/a_1fjulaqfaqh.html",
+    "baike_url": "https://baike.baidu.com/item/%E5%87%9B%E5%86%AC%E4%B8%8B%E7%9A%84%E7%BD%AA%E6%81%B6",
     "tags": [
      "悬疑",
-     "武侠",
+     "罪案"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "天才，女友",
+    "cover": "https://pic0.iqiyipic.com/image/20260806/38/bd/a_100661341_m_601_m6.jpg",
+    "premiere": "2026-08-02",
+    "days_ago": 49,
+    "rank": 11,
+    "cast": "田曦薇 胡一天",
+    "desc": "天才少女林知夏性格直接、不善交际，从小没有好友。考入省一中后，她因解题比拼与性格阳光的学霸江逾白相识并成为同桌。作为社交达人的江逾白帮林知夏融入集体交到汤婷婷、段启言、沈负暄、金百",
+    "episodes": "全28集",
+    "url": "http://www.iqiyi.com/a_1ljopeqm0kd.html",
+    "baike_url": "https://baike.baidu.com/item/%E5%A4%A9%E6%89%8D%EF%BC%8C%E5%A5%B3%E5%8F%8B",
+    "tags": [
+     "言情",
+     "剧情"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "这一秒过火",
+    "cover": "https://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+    "premiere": "2026-07-19",
+    "days_ago": 63,
+    "rank": 18,
+    "cast": "王楚然 张凌赫",
+    "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别",
+    "episodes": "全33集",
+    "url": "http://www.iqiyi.com/a_ng9j9rno7x.html",
+    "baike_url": "https://baike.baidu.com/item/%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB",
+    "tags": [
+     "爱情",
+     "言情"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "雀骨",
+    "cover": "https://pic2.iqiyipic.com/image/20260713/ad/f8/a_100654530_m_601_m4.jpg",
+    "premiere": "2026-07-11",
+    "days_ago": 71,
+    "rank": 8,
+    "cast": "艾米 侯明昊",
+    "desc": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+    "episodes": "全28集",
+    "url": "http://www.iqiyi.com/a_xkt6z4c7kt.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%9B%80%E9%AA%A8",
+    "tags": [
+     "爱情",
      "古装"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "南部档案",
+    "cover": "https://pic0.iqiyipic.com/image/20260611/d6/17/a_100598207_m_601_m3.jpg",
+    "premiere": "2026-06-11",
+    "days_ago": 101,
+    "rank": 21,
+    "cast": "张新成 丁禹兮",
+    "desc": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求",
+    "episodes": "全33集",
+    "url": "http://www.iqiyi.com/a_1n7ouekogmd.html",
+    "baike_url": "https://baike.baidu.com/item/%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88",
+    "tags": [
+     "剧情",
+     "自制"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "家业",
+    "cover": "https://pic1.iqiyipic.com/image/20260517/10/c9/a_100591160_m_601_m12.jpg",
+    "premiere": "2026-05-17",
+    "days_ago": 126,
+    "rank": 15,
+    "cast": "杨紫 韩东君",
+    "desc": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，位居龙头多年的百年制墨世家李墨没落，李墨八房被除族。时光流转，八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力惊艳沉寂已久的徽",
+    "episodes": "全42集",
+    "url": "http://www.iqiyi.com/a_131ig5wtqg5.html",
+    "baike_url": "https://baike.baidu.com/item/%E5%AE%B6%E4%B8%9A",
+    "tags": [
+     "古装",
+     "励志"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "低智商犯罪",
+    "cover": "https://pic2.iqiyipic.com/image/20260428/3d/35/a_100577495_m_601_m9.jpg",
+    "premiere": "2026-05-04",
+    "days_ago": 139,
+    "rank": 13,
+    "cast": "王骁 田曦薇",
+    "desc": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。",
+    "episodes": "全24集",
+    "url": "http://www.iqiyi.com/a_25vgx15887l.html",
+    "baike_url": "https://baike.baidu.com/item/%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA",
+    "tags": [
+     "犯罪",
+     "喜剧"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "钢铁森林",
+    "cover": "https://pic9.iqiyipic.com/image/20260410/e2/64/a_100586696_m_601_m10.jpg",
+    "premiere": "2026-04-03",
+    "days_ago": 170,
+    "rank": 16,
+    "cast": "井柏然 蔡文静",
+    "desc": "一具女尸牵出“8•17”悬案的全新线索，旧案重启。犯罪心理学教授江寒声（井柏然 饰）空降专案组令刑侦女警周瑾（蔡文静 饰）震惊，闪婚丈夫竟曾是省厅干警，调查矛头直指她青梅竹马的初恋",
+    "episodes": "全28集",
+    "url": "http://www.iqiyi.com/a_1ycxztfjcgd.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97",
+    "tags": [
+     "犯罪",
+     "悬疑"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "逐玉",
+    "cover": "https://pic4.iqiyipic.com/image/20260317/bb/ee/a_100598681_m_601_m9.jpg",
+    "premiere": "2026-03-06",
+    "days_ago": 198,
+    "rank": 17,
+    "cast": "张凌赫 田曦薇",
+    "desc": "本剧讲述了屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，",
+    "episodes": "全40集",
+    "url": "http://www.iqiyi.com/a_km3isv5eh1.html",
+    "baike_url": "https://baike.baidu.com/item/%E9%80%90%E7%8E%89",
+    "tags": [
+     "爱情",
+     "古装"
+    ]
+   },
+   {
+    "platform": "iqiyi",
+    "title": "罚罪2",
+    "cover": "https://pic3.iqiyipic.com/image/20251225/1b/21/a_100616599_m_601_m6.jpg",
+    "premiere": "2025-12-25",
+    "days_ago": 269,
+    "rank": 20,
+    "cast": "黄景瑜 王传君",
+    "desc": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节",
+    "episodes": "全40集",
+    "url": "http://www.iqiyi.com/a_11hmrgvte3d.html",
+    "baike_url": "https://baike.baidu.com/item/%E7%BD%9A%E7%BD%AA2",
+    "tags": [
+     "罪案",
+     "犯罪"
     ]
    },
    {
@@ -6127,7 +6333,7 @@
     "cover": "http://pic4.iqiyipic.com/image/20250717/cd/75/a_100645611_m_601_m2.jpg",
     "premiere": "2025-07-21",
     "days_ago": 426,
-    "rank": 28,
+    "rank": 48,
     "cast": "窦靖童 王传君 颜丙燕",
     "desc": "走投无路 先吃一顿",
     "episodes": "全24集",
@@ -6141,7 +6347,7 @@
     "cover": "http://pic6.iqiyipic.com/image/20250724/c8/a2/a_100625138_m_601_m17.jpg",
     "premiere": "2025-07-04",
     "days_ago": 443,
-    "rank": 18,
+    "rank": 38,
     "cast": "万茜 秦俊杰 林乐炫",
     "desc": "万茜秦俊杰破五毒迷案",
     "episodes": "全30集",
@@ -6159,7 +6365,7 @@
     "cover": "http://pic0.iqiyipic.com/image/20250703/ee/ac/a_100543678_m_601_m7.jpg",
     "premiere": "2025-07-03",
     "days_ago": 444,
-    "rank": 25,
+    "rank": 45,
     "cast": "陈小春 李治廷 韩雪",
     "desc": "陈小春李治廷携手护港",
     "episodes": "全24集",
@@ -6172,25 +6378,11 @@
    },
    {
     "platform": "iqiyi",
-    "title": "爱上海军蓝",
-    "cover": "http://pic8.iqiyipic.com/image/20250627/0c/0d/a_100645613_m_601_m3.jpg",
-    "premiere": "2025-07-02",
-    "days_ago": 445,
-    "rank": 44,
-    "cast": "金瀚 宣璐 徐洋",
-    "desc": "金瀚宣璐护航蓝海",
-    "episodes": "全34集",
-    "url": "http://www.iqiyi.com/a_21qt1uw8w89.html",
-    "baike_url": "https://baike.baidu.com/item/%E7%88%B1%E4%B8%8A%E6%B5%B7%E5%86%9B%E8%93%9D",
-    "tags": []
-   },
-   {
-    "platform": "iqiyi",
     "title": "亲爱的你",
     "cover": "http://pic8.iqiyipic.com/image/20250627/83/b6/a_100623745_m_601_m6.jpg",
     "premiere": "2025-06-30",
     "days_ago": 447,
-    "rank": 29,
+    "rank": 50,
     "cast": "张一山 李沁 阮巨",
     "desc": "张一山李沁双向救赎",
     "episodes": "全29集",
@@ -6204,29 +6396,11 @@
    },
    {
     "platform": "iqiyi",
-    "title": "真相半白",
-    "cover": "http://pic6.iqiyipic.com/image/20250629/db/c4/a_100636239_m_601_m10.jpg",
-    "premiere": "2025-06-25",
-    "days_ago": 452,
-    "rank": 49,
-    "cast": "张博 曹曦文 季晨",
-    "desc": "医疗黑幕 碎尸迷案",
-    "episodes": "全25集",
-    "url": "http://www.iqiyi.com/a_1ggw7a7491l.html",
-    "baike_url": "https://baike.baidu.com/item/%E7%9C%9F%E7%9B%B8%E5%8D%8A%E7%99%BD",
-    "tags": [
-     "悬疑",
-     "内地",
-     "普通话"
-    ]
-   },
-   {
-    "platform": "iqiyi",
     "title": "完美的救赎",
     "cover": "http://pic3.iqiyipic.com/image/20250617/07/8d/a_100571931_m_601_m8.jpg",
     "premiere": "2025-06-19",
     "days_ago": 458,
-    "rank": 12,
+    "rank": 33,
     "cast": "欧豪 王鹤润 成泰燊",
     "desc": "真相之上 谎言之下",
     "episodes": "全16集",
@@ -6243,7 +6417,7 @@
     "cover": "http://pic8.iqiyipic.com/image/20250513/2c/eb/a_100431290_m_601_m10.jpg",
     "premiere": "2025-05-13",
     "days_ago": 495,
-    "rank": 9,
+    "rank": 30,
     "cast": "李现 春夏 魏大勋",
     "desc": "回望百年前时代的转角",
     "episodes": "全40集",
@@ -6257,29 +6431,11 @@
    },
    {
     "platform": "iqiyi",
-    "title": "灭罪",
-    "cover": "http://pic8.iqiyipic.com/image/20250520/c6/7c/a_100611140_m_601_m16.jpg",
-    "premiere": "2025-04-30",
-    "days_ago": 508,
-    "rank": 37,
-    "cast": "费启鸣 王晓赟子 叶祖新",
-    "desc": "埋尸换命 疯批复仇",
-    "episodes": "全24集",
-    "url": "http://www.iqiyi.com/a_utgl8wkerp.html",
-    "baike_url": "https://baike.baidu.com/item/%E7%81%AD%E7%BD%AA",
-    "tags": [
-     "悬疑",
-     "罪案",
-     "内地"
-    ]
-   },
-   {
-    "platform": "iqiyi",
     "title": "黄雀",
     "cover": "http://pic2.iqiyipic.com/image/20250328/de/9c/a_100551893_m_601_m10.jpg",
     "premiere": "2025-03-18",
     "days_ago": 551,
-    "rank": 13,
+    "rank": 34,
     "cast": "郭京飞 秦岚 祖峰",
     "desc": "郭京飞秦岚市井缉盗",
     "episodes": "全24集",
@@ -6296,7 +6452,7 @@
     "cover": "http://pic4.iqiyipic.com/image/20250205/70/d3/a_100546903_m_601_m12.jpg",
     "premiere": "2025-02-07",
     "days_ago": 590,
-    "rank": 8,
+    "rank": 29,
     "cast": "邓为 向涵之 陈鑫海",
     "desc": "邓为向涵之师徒换乘",
     "episodes": "全40集",
@@ -6305,184 +6461,6 @@
     "tags": [
      "言情",
      "古装"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "二十一天",
-    "cover": "http://pic6.iqiyipic.com/image/20250624/08/7f/a_100545209_m_601_m9.jpg",
-    "premiere": "2024-09-26",
-    "days_ago": 724,
-    "rank": 42,
-    "cast": "欧豪 张雪迎 王志文",
-    "desc": "13人天坑极限求生",
-    "episodes": "全12集",
-    "url": "http://www.iqiyi.com/a_24965oxecg5.html",
-    "baike_url": "https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A9",
-    "tags": [
-     "悬疑",
-     "罪案"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "孤战迷城",
-    "cover": "http://pic4.iqiyipic.com/image/20240728/d8/0b/a_100545344_m_601_m6.jpg",
-    "premiere": "2024-06-29",
-    "days_ago": 813,
-    "rank": 22,
-    "cast": "黄景瑜 辛芷蕾 马思超",
-    "desc": "黄景瑜辛芷蕾谍战交锋",
-    "episodes": "全40集",
-    "url": "http://www.iqiyi.com/a_29y3oknaivt.html",
-    "baike_url": "https://baike.baidu.com/item/%E5%AD%A4%E6%88%98%E8%BF%B7%E5%9F%8E",
-    "tags": [
-     "军旅",
-     "谍战",
-     "战争"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "不可告人",
-    "cover": "http://pic2.iqiyipic.com/image/20240515/77/2f/a_100545294_m_601_m10.jpg",
-    "premiere": "2024-05-08",
-    "days_ago": 865,
-    "rank": 11,
-    "cast": "欧豪 李一桐 杨玏",
-    "desc": "欧豪李一桐探寻真相",
-    "episodes": "全12集",
-    "url": "http://www.iqiyi.com/a_2d0csqgi611.html",
-    "baike_url": "https://baike.baidu.com/item/%E4%B8%8D%E5%8F%AF%E5%91%8A%E4%BA%BA",
-    "tags": [
-     "悬疑",
-     "罪案",
-     "剧情"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "欢乐颂5",
-    "cover": "http://pic1.iqiyipic.com/image/20240401/c3/d6/a_100567536_m_601_m12.jpg",
-    "premiere": "2024-03-16",
-    "days_ago": 918,
-    "rank": 33,
-    "cast": "江疏影 杨采钰 张佳宁",
-    "desc": "22楼携手共赴新程",
-    "episodes": "全34集",
-    "url": "http://www.iqiyi.com/a_hq7wy4yath.html",
-    "baike_url": "https://baike.baidu.com/item/%E6%AC%A2%E4%B9%90%E9%A2%825",
-    "tags": [
-     "言情",
-     "剧情",
-     "都市"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "烈焰",
-    "cover": "http://pic5.iqiyipic.com/image/20240417/8c/0b/a_100525916_m_601_m26.jpg",
-    "premiere": "2024-03-13",
-    "days_ago": 921,
-    "rank": 21,
-    "cast": "任嘉伦 邢菲 祝绪丹",
-    "desc": "任嘉伦重生护三界",
-    "episodes": "全40集",
-    "url": "http://www.iqiyi.com/a_nyl3ip0doh.html",
-    "baike_url": "https://baike.baidu.com/item/%E7%83%88%E7%84%B0",
-    "tags": [
-     "武侠",
-     "古装",
-     "奇幻"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "仙剑四",
-    "cover": "http://pic6.iqiyipic.com/image/20240201/d2/c1/a_100560336_m_601_m21.jpg",
-    "premiere": "2024-01-17",
-    "days_ago": 977,
-    "rank": 46,
-    "cast": "鞠婧祎 陈哲远 茅子俊",
-    "desc": "热血护苍生",
-    "episodes": "全36集",
-    "url": "http://www.iqiyi.com/a_dwo684rau1.html",
-    "baike_url": "https://baike.baidu.com/item/%E4%BB%99%E5%89%91%E5%9B%9B",
-    "tags": [
-     "言情",
-     "古装"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "特工任务",
-    "cover": "http://pic1.iqiyipic.com/image/20231109/c4/6c/a_100502494_m_601_m18.jpg",
-    "premiere": "2023-09-20",
-    "days_ago": 1096,
-    "rank": 27,
-    "cast": "韩庚 魏大勋 李一桐",
-    "desc": "韩庚魏大勋邀你入局",
-    "episodes": "全38集",
-    "url": "http://www.iqiyi.com/a_1maeqm4nuzl.html",
-    "baike_url": "https://baike.baidu.com/item/%E7%89%B9%E5%B7%A5%E4%BB%BB%E5%8A%A1",
-    "tags": [
-     "悬疑",
-     "罪案",
-     "内地"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "消失的十一层",
-    "cover": "http://pic8.iqiyipic.com/image/20231109/5b/09/a_100535266_m_601_m21.jpg",
-    "premiere": "2023-07-09",
-    "days_ago": 1169,
-    "rank": 40,
-    "cast": "潘粤明 陈数 果靖霖",
-    "desc": "警弟匪兄黑白对决",
-    "episodes": "全24集",
-    "url": "http://www.iqiyi.com/a_t59o3yjifh.html",
-    "baike_url": "https://baike.baidu.com/item/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8D%81%E4%B8%80%E5%B1%82",
-    "tags": [
-     "悬疑",
-     "内地",
-     "普通话"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "向风而行",
-    "cover": "http://pic6.iqiyipic.com/image/20231109/c7/cc/a_100493610_m_601_m22.jpg",
-    "premiere": "2022-12-26",
-    "days_ago": 1364,
-    "rank": 23,
-    "cast": "王凯 谭松韵 刘畅",
-    "desc": "双A搭档逐梦蓝天",
-    "episodes": "全39集",
-    "url": "http://www.iqiyi.com/a_1mg3hv1oifp.html",
-    "baike_url": "https://baike.baidu.com/item/%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C",
-    "tags": [
-     "言情",
-     "内地",
-     "普通话"
-    ]
-   },
-   {
-    "platform": "iqiyi",
-    "title": "对决",
-    "cover": "http://pic9.iqiyipic.com/image/20231109/af/06/a_100459444_m_601_m12.jpg",
-    "premiere": "2022-05-10",
-    "days_ago": 1594,
-    "rank": 34,
-    "cast": "欧豪 王景春 吕晓霖",
-    "desc": "欧豪王景春扫黑除恶",
-    "episodes": "全24集",
-    "url": "http://www.iqiyi.com/a_29sdsc1ln91.html",
-    "baike_url": "https://baike.baidu.com/item/%E5%AF%B9%E5%86%B3",
-    "tags": [
-     "内地",
-     "罪案",
-     "当代"
     ]
    }
   ],
@@ -7005,7 +6983,7 @@
    {
     "platform": "youku",
     "title": "一瓯春",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/52f1998325e1402480ac72012840f8e1.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/494cc84bbbc74f1a9bbb80d791055490.webp.jpg",
     "premiere": "2026-09-17",
     "days_ago": 3,
     "rank": 5,
@@ -7037,7 +7015,7 @@
    {
     "platform": "youku",
     "title": "早春晴朗",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/8a2704b1a177427eb8256e47e0ccdeaa.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/68741dc935e84c478de12126a1827c00.webp.jpg",
     "premiere": "2026-08-26",
     "days_ago": 25,
     "rank": 1,
@@ -7055,7 +7033,7 @@
    {
     "platform": "youku",
     "title": "师兄太稳健",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/cd4b878720a74a75a1446a1704500fd9.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/67f45b4f42f1417aae1754ac7910179a.webp.jpg",
     "premiere": "2026-08-19",
     "days_ago": 32,
     "rank": 4,
@@ -7069,7 +7047,7 @@
    {
     "platform": "youku",
     "title": "九门",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/ccc7426e6e7c42ddb07245bcbd8e894f.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/21918b8e743f4478a7f14e86011e9c6e.webp.jpg",
     "premiere": "2026-07-30",
     "days_ago": 52,
     "rank": 3,
@@ -7087,7 +7065,7 @@
    {
     "platform": "youku",
     "title": "悬案",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/f5b89a7f40304816a68a86a6a9ff0fad.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/3024c4f5fa1a43fd9b56e2b1ecd88a76.webp.jpg",
     "premiere": "2026-07-03",
     "days_ago": 79,
     "rank": 19,
@@ -7105,7 +7083,7 @@
    {
     "platform": "youku",
     "title": "千香",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/338f92a0020445bc80455cdd59fcc3b8.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/2d42edca59b445e099fe8656d2af5ccd.webp.jpg",
     "premiere": "2026-06-27",
     "days_ago": 85,
     "rank": 20,
@@ -7137,7 +7115,7 @@
    {
     "platform": "youku",
     "title": "翘楚",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/8d5df9e2761a4ec9a2798be7b0958015.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/c5702ffebdbe4750aeb02200d728a039.webp.jpg",
     "premiere": "2026-06-02",
     "days_ago": 110,
     "rank": 8,
@@ -7273,7 +7251,7 @@
    {
     "platform": "youku",
     "title": "樱桃琥珀",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/72d23c63a471495db1e3ecbaaa15e4fc.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/a285616c0e2041069d3d77d281f30651.webp.jpg",
     "premiere": "2025-07-14",
     "days_ago": 433,
     "rank": 26,
@@ -7325,7 +7303,7 @@
    {
     "platform": "youku",
     "title": "蜀锦人家",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/d92084b55e57499bb57d063469fc5144.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/f4ba3b3ffa0f4d3bade28cd686238870.webp.jpg",
     "premiere": "2024-11-30",
     "days_ago": 659,
     "rank": 29,
@@ -7343,7 +7321,7 @@
    {
     "platform": "youku",
     "title": "天赐仇爱",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/4fff6fa29b09413d8cc47d6b2f4344ff.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/ef0d2f34ebd64fab96b4e26123326796.webp.jpg",
     "premiere": "2024-11-27",
     "days_ago": 662,
     "rank": 17,
@@ -7414,7 +7392,7 @@
    {
     "platform": "youku",
     "title": "新生",
-    "cover": "http://liangcang-material.alicdn.com/prod/upload/27fb729a91304b3395345954520cff2e.webp.jpg",
+    "cover": "http://liangcang-material.alicdn.com/prod/upload/178e79da8ab34c5492119f00ce7269d1.webp.jpg",
     "premiere": "2024-05-06",
     "days_ago": 867,
     "rank": 28,
@@ -7525,42 +7503,24 @@
   {
    "platform": "iqiyi",
    "title": "一瓯春",
-   "cover": "http://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
+   "cover": "https://pic9.iqiyipic.com/image/20260917/28/fb/a_100801025_m_601_m9.jpg",
    "premiere": "2026-09-17",
    "days_ago": 3,
-   "rank": 1,
-   "cast": "许凯 周也 白澍",
-   "desc": "双强联手 入局复仇",
+   "rank": 2,
+   "cast": "许凯 周也",
+   "desc": "“杀伐千面腹黑男”沈润与“人间清醒黑莲花”谢清圆互为刀刃交错，在理智与情感中携手复仇，于高门大户里明争暗斗，立朝堂官场上搅弄风云。最终他们走出暗流深渊，奔赴璀璨新生。",
    "episodes": "全30集",
    "url": "http://www.iqiyi.com/a_2b9ocx2qugh.html",
    "baike_url": "https://baike.baidu.com/item/%E4%B8%80%E7%93%AF%E6%98%A5",
    "tags": [
-    "言情",
+    "复仇",
     "古装"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "阎魔的宠妃",
-   "cover": "http://pic5.iqiyipic.com/image/20260915/32/7f/a_101474514_m_601_m3.jpg",
-   "premiere": "2026-09-17",
-   "days_ago": 3,
-   "rank": 5,
-   "cast": "阿空 阎魔",
-   "desc": "天降少女情定寒潭",
-   "episodes": "全24集",
-   "url": "http://www.iqiyi.com/a_obm13fdtfx.html",
-   "baike_url": "https://baike.baidu.com/item/%E9%98%8E%E9%AD%94%E7%9A%84%E5%AE%A0%E5%A6%83",
-   "tags": [
-    "言情",
-    "古装",
-    "奇幻"
    ]
   },
   {
    "platform": "youku",
    "title": "一瓯春",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/52f1998325e1402480ac72012840f8e1.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/494cc84bbbc74f1a9bbb80d791055490.webp.jpg",
    "premiere": "2026-09-17",
    "days_ago": 3,
    "rank": 5,
@@ -7573,11 +7533,29 @@
   },
   {
    "platform": "iqiyi",
+   "title": "阎魔的宠妃",
+   "cover": "http://pic5.iqiyipic.com/image/20260915/32/7f/a_101474514_m_601_m3.jpg",
+   "premiere": "2026-09-17",
+   "days_ago": 3,
+   "rank": 26,
+   "cast": "阿空 阎魔",
+   "desc": "天降少女情定寒潭",
+   "episodes": "全24集",
+   "url": "http://www.iqiyi.com/a_obm13fdtfx.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%98%8E%E9%AD%94%E7%9A%84%E5%AE%A0%E5%A6%83",
+   "tags": [
+    "言情",
+    "古装",
+    "奇幻"
+   ]
+  },
+  {
+   "platform": "iqiyi",
    "title": "荣耀的阶梯",
    "cover": "http://pic4.iqiyipic.com/image/20260910/24/d5/a_101440228_m_601_m3.jpg",
    "premiere": "2026-09-17",
    "days_ago": 3,
-   "rank": 6,
+   "rank": 27,
    "cast": "王佳玉 姜之南 胡潇悦",
    "desc": "步步为营，阶阶荣耀",
    "episodes": "全24集",
@@ -7592,19 +7570,18 @@
   {
    "platform": "iqiyi",
    "title": "车轮下的真相",
-   "cover": "http://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
+   "cover": "https://pic5.iqiyipic.com/image/20260918/71/f6/a_101434792_m_601_m4.jpg",
    "premiere": "2026-09-16",
    "days_ago": 4,
-   "rank": 4,
-   "cast": "于小彤 王智勇(王睿子) 张可盈",
-   "desc": "全员恶人 反转局中局",
+   "rank": 7,
+   "cast": "于小彤 王智勇(王睿子)",
+   "desc": "曾任职刑警的交警李星辰，在一个雨夜接手一桩离奇车祸案。企业家高玉海意外殒命，现场遭一名假交警清理破坏，关键证据被抹除。市局成立专案组由李星辰牵头彻查此案。肇事司机沈溪看似与死者毫无",
    "episodes": "全30集",
    "url": "http://www.iqiyi.com/a_1lj0zydzzu9.html",
    "baike_url": "https://baike.baidu.com/item/%E8%BD%A6%E8%BD%AE%E4%B8%8B%E7%9A%84%E7%9C%9F%E7%9B%B8",
    "tags": [
-    "悬疑",
-    "罪案",
-    "内地"
+    "警匪",
+    "悬疑"
    ]
   },
   {
@@ -7613,7 +7590,7 @@
    "cover": "http://pic5.iqiyipic.com/image/20260911/be/88/a_101458921_m_601_m4.jpg",
    "premiere": "2026-09-15",
    "days_ago": 5,
-   "rank": 7,
+   "rank": 28,
    "cast": "刘胤君 文景芝 龚婉怡",
    "desc": "逆天改命却步步皆局",
    "episodes": "全24集",
@@ -7698,17 +7675,18 @@
   {
    "platform": "iqiyi",
    "title": "深渊无间",
-   "cover": "http://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
+   "cover": "https://pic1.iqiyipic.com/image/20260904/44/e9/a_100684437_m_601_m6.jpg",
    "premiere": "2026-09-09",
    "days_ago": 11,
-   "rank": 2,
-   "cast": "任嘉伦 秦俊杰 王砚辉",
-   "desc": "凶案连载悬疑剧",
+   "rank": 3,
+   "cast": "任嘉伦 秦俊杰",
+   "desc": "一篇名为《深渊》的推理网文悄然上线，打破了保守小城多年来的平静，文中诸多情节与警方未曾公布的多年前悬案案情有着惊人的相似。热血正义的新警李成，与多方嫌疑人，一次次上演高智对弈。最终",
    "episodes": "全16集",
    "url": "http://www.iqiyi.com/a_okv7zmsbr1.html",
    "baike_url": "https://baike.baidu.com/item/%E6%B7%B1%E6%B8%8A%E6%97%A0%E9%97%B4",
    "tags": [
-    "悬疑"
+    "悬疑",
+    "罪案"
    ]
   },
   {
@@ -7717,7 +7695,7 @@
    "cover": "http://pic4.iqiyipic.com/image/20260914/4a/8a/a_101293765_m_601_m5.jpg",
    "premiere": "2026-09-08",
    "days_ago": 12,
-   "rank": 10,
+   "rank": 31,
    "cast": "丁笑滢 贺鹏",
    "desc": "带崽还债，全家逆袭",
    "episodes": "全24集",
@@ -7749,17 +7727,18 @@
   {
    "platform": "iqiyi",
    "title": "生逢其时",
-   "cover": "http://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
+   "cover": "https://pic5.iqiyipic.com/image/20260901/8b/8f/a_100610836_m_601_m7.jpg",
    "premiere": "2026-09-03",
    "days_ago": 17,
-   "rank": 3,
-   "cast": "王子奇 关晓彤 刘琳",
-   "desc": "生而无畏 恰逢其时",
+   "rank": 1,
+   "cast": "王子奇 关晓彤",
+   "desc": "青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下齐时、曹信。身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样",
    "episodes": "全26集",
    "url": "http://www.iqiyi.com/a_nvusovhwc5.html",
    "baike_url": "https://baike.baidu.com/item/%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6",
    "tags": [
-    "家庭"
+    "家庭",
+    "年代"
    ]
   },
   {
@@ -7776,6 +7755,23 @@
    "baike_url": "https://baike.baidu.com/item/%E9%A3%9E%E5%88%B0%E6%88%91%E5%BF%83%E4%B8%8A",
    "tags": [
     "剧情"
+   ]
+  },
+  {
+   "platform": "iqiyi",
+   "title": "重案六组：消失的警号",
+   "cover": "https://pic4.iqiyipic.com/image/20260904/1d/cd/a_101315007_m_601_m9.jpg",
+   "premiere": "2026-08-31",
+   "days_ago": 20,
+   "rank": 5,
+   "cast": "张一山 李沐宸",
+   "desc": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动",
+   "episodes": "全26集",
+   "url": "http://www.iqiyi.com/a_20iro6do9dl.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E6%A1%88%E5%85%AD%E7%BB%84%EF%BC%9A%E6%B6%88%E5%A4%B1%E7%9A%84%E8%AD%A6%E5%8F%B7",
+   "tags": [
+    "罪案",
+    "悬疑"
    ]
   },
   {
@@ -7815,7 +7811,7 @@
   {
    "platform": "youku",
    "title": "早春晴朗",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/8a2704b1a177427eb8256e47e0ccdeaa.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/68741dc935e84c478de12126a1827c00.webp.jpg",
    "premiere": "2026-08-26",
    "days_ago": 25,
    "rank": 1,
@@ -7831,9 +7827,26 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "醒来",
+   "cover": "https://pic8.iqiyipic.com/image/20260828/1a/e7/a_100684407_m_601_m10.jpg",
+   "premiere": "2026-08-26",
+   "days_ago": 25,
+   "rank": 4,
+   "cast": "欧豪 娜扎",
+   "desc": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门",
+   "episodes": "全22集",
+   "url": "http://www.iqiyi.com/a_1ojttm1bmpp.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%86%92%E6%9D%A5",
+   "tags": [
+    "谍战",
+    "年代"
+   ]
+  },
+  {
    "platform": "youku",
    "title": "师兄太稳健",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/cd4b878720a74a75a1446a1704500fd9.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/67f45b4f42f1417aae1754ac7910179a.webp.jpg",
    "premiere": "2026-08-19",
    "days_ago": 32,
    "rank": 4,
@@ -7843,6 +7856,22 @@
    "url": "https://v.youku.com/v_show/id_fcad042e84ef43ce8309.html",
    "baike_url": "https://baike.baidu.com/item/%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5",
    "tags": []
+  },
+  {
+   "platform": "iqiyi",
+   "title": "师兄太稳健",
+   "cover": "https://pic4.iqiyipic.com/image/20260817/f1/74/a_101283421_m_601_m3.jpg",
+   "premiere": "2026-08-19",
+   "days_ago": 32,
+   "rank": 9,
+   "cast": "敖瑞鹏 孙珍妮",
+   "desc": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、",
+   "episodes": "全30集",
+   "url": "http://www.iqiyi.com/a_mo3lnx7h41.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%B8%88%E5%85%84%E5%A4%AA%E7%A8%B3%E5%81%A5",
+   "tags": [
+    "古装"
+   ]
   },
   {
    "platform": "tencent",
@@ -7896,6 +7925,23 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "重器",
+   "cover": "https://pic8.iqiyipic.com/image/20260812/f7/2b/a_100624469_m_601_m7.jpg",
+   "premiere": "2026-08-10",
+   "days_ago": 41,
+   "rank": 6,
+   "cast": "黄景瑜 蒋奇明",
+   "desc": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼",
+   "episodes": "全33集",
+   "url": "http://www.iqiyi.com/a_10818unjun5.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%87%8D%E5%99%A8",
+   "tags": [
+    "剧情",
+    "年代"
+   ]
+  },
+  {
    "platform": "tencent",
    "title": "花开锦绣",
    "cover": "http://pic4.iqiyipic.com/image/20260529/1b/5f/a_100843925_m_601.jpg",
@@ -7914,9 +7960,43 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "凛冬下的罪恶",
+   "cover": "https://pic4.iqiyipic.com/image/20260806/d6/d7/a_100922154_m_601_m7.jpg",
+   "premiere": "2026-08-04",
+   "days_ago": 47,
+   "rank": 22,
+   "cast": "吴昊宸 张睿",
+   "desc": "凛冬，一精神病女子拦车报案，称丈夫杀人，刑警沈栋梁吴红兵由此揭开系列碎尸案真相。然而风浪未平，储蓄所抢劫杀人案，少女失踪案，流窜抢车案接连发生，沈栋梁与吴红兵追凶之际，竟牵出改变二",
+   "episodes": "全26集",
+   "url": "http://www.iqiyi.com/a_1fjulaqfaqh.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%87%9B%E5%86%AC%E4%B8%8B%E7%9A%84%E7%BD%AA%E6%81%B6",
+   "tags": [
+    "悬疑",
+    "罪案"
+   ]
+  },
+  {
+   "platform": "iqiyi",
+   "title": "天才，女友",
+   "cover": "https://pic0.iqiyipic.com/image/20260806/38/bd/a_100661341_m_601_m6.jpg",
+   "premiere": "2026-08-02",
+   "days_ago": 49,
+   "rank": 11,
+   "cast": "田曦薇 胡一天",
+   "desc": "天才少女林知夏性格直接、不善交际，从小没有好友。考入省一中后，她因解题比拼与性格阳光的学霸江逾白相识并成为同桌。作为社交达人的江逾白帮林知夏融入集体交到汤婷婷、段启言、沈负暄、金百",
+   "episodes": "全28集",
+   "url": "http://www.iqiyi.com/a_1ljopeqm0kd.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%A4%A9%E6%89%8D%EF%BC%8C%E5%A5%B3%E5%8F%8B",
+   "tags": [
+    "言情",
+    "剧情"
+   ]
+  },
+  {
    "platform": "youku",
    "title": "九门",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/ccc7426e6e7c42ddb07245bcbd8e894f.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/21918b8e743f4478a7f14e86011e9c6e.webp.jpg",
    "premiere": "2026-07-30",
    "days_ago": 52,
    "rank": 3,
@@ -7963,6 +8043,23 @@
    "tags": []
   },
   {
+   "platform": "iqiyi",
+   "title": "这一秒过火",
+   "cover": "https://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
+   "premiere": "2026-07-19",
+   "days_ago": 63,
+   "rank": 18,
+   "cast": "王楚然 张凌赫",
+   "desc": "讲述了民国乱世，备受冷眼的世家少爷慕容清峄与饱受苦难的复仇孤女任素素阴差阳错结缘相识，却因误会含恨而别。两人再重逢，却身份错位，陷入爱恨交织的极限拉扯中。二人历经世事波折与生离死别",
+   "episodes": "全33集",
+   "url": "http://www.iqiyi.com/a_ng9j9rno7x.html",
+   "baike_url": "https://baike.baidu.com/item/%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB",
+   "tags": [
+    "爱情",
+    "言情"
+   ]
+  },
+  {
    "platform": "tencent",
    "title": "这一秒过火",
    "cover": "http://pic8.iqiyipic.com/image/20260227/ec/73/a_100646254_m_601_m5.jpg",
@@ -7975,6 +8072,23 @@
    "url": "https://v.qq.com/x/search/?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB",
    "baike_url": "https://baike.baidu.com/item/%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB",
    "tags": []
+  },
+  {
+   "platform": "iqiyi",
+   "title": "雀骨",
+   "cover": "https://pic2.iqiyipic.com/image/20260713/ad/f8/a_100654530_m_601_m4.jpg",
+   "premiere": "2026-07-11",
+   "days_ago": 71,
+   "rank": 8,
+   "cast": "艾米 侯明昊",
+   "desc": "当魔头将军强娶沉迷机关术的财迷假千金，从契约夫妻到生死局里互扒马甲，爱意与杀意同生共长，揭朝堂阴谋，破生死乱局，守家国太平。",
+   "episodes": "全28集",
+   "url": "http://www.iqiyi.com/a_xkt6z4c7kt.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%9B%80%E9%AA%A8",
+   "tags": [
+    "爱情",
+    "古装"
+   ]
   },
   {
    "platform": "tencent",
@@ -8032,7 +8146,7 @@
   {
    "platform": "youku",
    "title": "悬案",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/f5b89a7f40304816a68a86a6a9ff0fad.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/3024c4f5fa1a43fd9b56e2b1ecd88a76.webp.jpg",
    "premiere": "2026-07-03",
    "days_ago": 79,
    "rank": 19,
@@ -8050,7 +8164,7 @@
   {
    "platform": "youku",
    "title": "千香",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/338f92a0020445bc80455cdd59fcc3b8.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/2d42edca59b445e099fe8656d2af5ccd.webp.jpg",
    "premiere": "2026-06-27",
    "days_ago": 85,
    "rank": 20,
@@ -8096,6 +8210,23 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "南部档案",
+   "cover": "https://pic0.iqiyipic.com/image/20260611/d6/17/a_100598207_m_601_m3.jpg",
+   "premiere": "2026-06-11",
+   "days_ago": 101,
+   "rank": 21,
+   "cast": "张新成 丁禹兮",
+   "desc": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求",
+   "episodes": "全33集",
+   "url": "http://www.iqiyi.com/a_1n7ouekogmd.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88",
+   "tags": [
+    "剧情",
+    "自制"
+   ]
+  },
+  {
    "platform": "tencent",
    "title": "莫离",
    "cover": "http://pic8.iqiyipic.com/image/20260515/10/21/a_100824357_m_601.jpg",
@@ -8116,7 +8247,7 @@
   {
    "platform": "youku",
    "title": "翘楚",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/8d5df9e2761a4ec9a2798be7b0958015.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/c5702ffebdbe4750aeb02200d728a039.webp.jpg",
    "premiere": "2026-06-02",
    "days_ago": 110,
    "rank": 8,
@@ -8145,6 +8276,23 @@
    "tags": [
     "都市",
     "爱情"
+   ]
+  },
+  {
+   "platform": "iqiyi",
+   "title": "家业",
+   "cover": "https://pic1.iqiyipic.com/image/20260517/10/c9/a_100591160_m_601_m12.jpg",
+   "premiere": "2026-05-17",
+   "days_ago": 126,
+   "rank": 15,
+   "cast": "杨紫 韩东君",
+   "desc": "明朝中期，一场贡墨案打破维持已久的徽州墨业格局，位居龙头多年的百年制墨世家李墨没落，李墨八房被除族。时光流转，八房幺女李祯为解决生计毅然走上制墨之路，凭借天资和努力惊艳沉寂已久的徽",
+   "episodes": "全42集",
+   "url": "http://www.iqiyi.com/a_131ig5wtqg5.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%AE%B6%E4%B8%9A",
+   "tags": [
+    "古装",
+    "励志"
    ]
   },
   {
@@ -8183,6 +8331,23 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "低智商犯罪",
+   "cover": "https://pic2.iqiyipic.com/image/20260428/3d/35/a_100577495_m_601_m9.jpg",
+   "premiere": "2026-05-04",
+   "days_ago": 139,
+   "rank": 13,
+   "cast": "王骁 田曦薇",
+   "desc": "脱离一线刑侦几年的警察张一昂，因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。",
+   "episodes": "全24集",
+   "url": "http://www.iqiyi.com/a_25vgx15887l.html",
+   "baike_url": "https://baike.baidu.com/item/%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA",
+   "tags": [
+    "犯罪",
+    "喜剧"
+   ]
+  },
+  {
    "platform": "mgtv",
    "title": "良陈美锦",
    "cover": "https://1img.hitv.com/preview/sp_images/2026/04/28/20260428111924649.jpg",
@@ -8214,6 +8379,23 @@
    "tags": [
     "都市",
     "言情",
+    "悬疑"
+   ]
+  },
+  {
+   "platform": "iqiyi",
+   "title": "钢铁森林",
+   "cover": "https://pic9.iqiyipic.com/image/20260410/e2/64/a_100586696_m_601_m10.jpg",
+   "premiere": "2026-04-03",
+   "days_ago": 170,
+   "rank": 16,
+   "cast": "井柏然 蔡文静",
+   "desc": "一具女尸牵出“8•17”悬案的全新线索，旧案重启。犯罪心理学教授江寒声（井柏然 饰）空降专案组令刑侦女警周瑾（蔡文静 饰）震惊，闪婚丈夫竟曾是省厅干警，调查矛头直指她青梅竹马的初恋",
+   "episodes": "全28集",
+   "url": "http://www.iqiyi.com/a_1ycxztfjcgd.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%92%A2%E9%93%81%E6%A3%AE%E6%9E%97",
+   "tags": [
+    "犯罪",
     "悬疑"
    ]
   },
@@ -8285,6 +8467,23 @@
    "tags": []
   },
   {
+   "platform": "iqiyi",
+   "title": "逐玉",
+   "cover": "https://pic4.iqiyipic.com/image/20260317/bb/ee/a_100598681_m_601_m9.jpg",
+   "premiere": "2026-03-06",
+   "days_ago": 198,
+   "rank": 17,
+   "cast": "张凌赫 田曦薇",
+   "desc": "本剧讲述了屠户女樊长玉与落难侯爷谢征于风雪中宿命相逢，一个父母双亡要做女户主，一个隐姓埋名报十七年前血仇，二人“各有目的”地演出了一场假婚真爱！利用变成真爱，真爱却带来了血腥战事，",
+   "episodes": "全40集",
+   "url": "http://www.iqiyi.com/a_km3isv5eh1.html",
+   "baike_url": "https://baike.baidu.com/item/%E9%80%90%E7%8E%89",
+   "tags": [
+    "爱情",
+    "古装"
+   ]
+  },
+  {
    "platform": "mgtv",
    "title": "好好的时光",
    "cover": "https://0img.hitv.com/preview/sp_images/2026/02/10/202602101744264699875.jpg",
@@ -8349,6 +8548,23 @@
    "url": "https://v.youku.com/v_show/id_cfedcd80d8ba4564bed5.html",
    "baike_url": "https://baike.baidu.com/item/%E9%80%8D%E9%81%A5",
    "tags": []
+  },
+  {
+   "platform": "iqiyi",
+   "title": "罚罪2",
+   "cover": "https://pic3.iqiyipic.com/image/20251225/1b/21/a_100616599_m_601_m6.jpg",
+   "premiere": "2025-12-25",
+   "days_ago": 269,
+   "rank": 20,
+   "cast": "黄景瑜 王传君",
+   "desc": "讲述了警察秦枫与犯罪分子斗智斗勇的故事。剧本选取汉洲发展背景下的恶性案件，描绘警察与家人、利益集团的复杂关系。主线围绕秦枫和刘天也两个异姓兄弟展开，揭示人性深度与道德冲突。故事情节",
+   "episodes": "全40集",
+   "url": "http://www.iqiyi.com/a_11hmrgvte3d.html",
+   "baike_url": "https://baike.baidu.com/item/%E7%BD%9A%E7%BD%AA2",
+   "tags": [
+    "罪案",
+    "犯罪"
+   ]
   },
   {
    "platform": "tencent",
@@ -8490,38 +8706,6 @@
    ]
   },
   {
-   "platform": "iqiyi",
-   "title": "大明悬案录之鉴影篇",
-   "cover": "http://pic3.iqiyipic.com/image/20250708/4c/07/a_100652207_m_601_m3.jpg",
-   "premiere": "2025-07-25",
-   "days_ago": 422,
-   "rank": 50,
-   "cast": "陈名豪 余芷慧 曾怀毅",
-   "desc": "察人性善恶鉴人心勇怯",
-   "episodes": "全27集",
-   "url": "http://www.iqiyi.com/a_oildz7cdep.html",
-   "baike_url": "https://baike.baidu.com/item/%E5%A4%A7%E6%98%8E%E6%82%AC%E6%A1%88%E5%BD%95%E4%B9%8B%E9%89%B4%E5%BD%B1%E7%AF%87",
-   "tags": [
-    "悬疑",
-    "武侠",
-    "古装"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "她的生存之道",
-   "cover": "http://pic4.iqiyipic.com/image/20250717/cd/75/a_100645611_m_601_m2.jpg",
-   "premiere": "2025-07-21",
-   "days_ago": 426,
-   "rank": 28,
-   "cast": "窦靖童 王传君 颜丙燕",
-   "desc": "走投无路 先吃一顿",
-   "episodes": "全24集",
-   "url": "http://www.iqiyi.com/a_26m9w2wnu3x.html",
-   "baike_url": "https://baike.baidu.com/item/%E5%A5%B9%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93",
-   "tags": []
-  },
-  {
    "platform": "mgtv",
    "title": "深情眼",
    "cover": "https://2img.hitv.com/preview/sp_images/2025/07/18/202507181524168999442.jpg",
@@ -8539,9 +8723,23 @@
    ]
   },
   {
+   "platform": "iqiyi",
+   "title": "她的生存之道",
+   "cover": "http://pic4.iqiyipic.com/image/20250717/cd/75/a_100645611_m_601_m2.jpg",
+   "premiere": "2025-07-21",
+   "days_ago": 426,
+   "rank": 48,
+   "cast": "窦靖童 王传君 颜丙燕",
+   "desc": "走投无路 先吃一顿",
+   "episodes": "全24集",
+   "url": "http://www.iqiyi.com/a_26m9w2wnu3x.html",
+   "baike_url": "https://baike.baidu.com/item/%E5%A5%B9%E7%9A%84%E7%94%9F%E5%AD%98%E4%B9%8B%E9%81%93",
+   "tags": []
+  },
+  {
    "platform": "youku",
    "title": "樱桃琥珀",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/72d23c63a471495db1e3ecbaaa15e4fc.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/a285616c0e2041069d3d77d281f30651.webp.jpg",
    "premiere": "2025-07-14",
    "days_ago": 433,
    "rank": 26,
@@ -8561,7 +8759,7 @@
    "cover": "http://pic6.iqiyipic.com/image/20250724/c8/a2/a_100625138_m_601_m17.jpg",
    "premiere": "2025-07-04",
    "days_ago": 443,
-   "rank": 18,
+   "rank": 38,
    "cast": "万茜 秦俊杰 林乐炫",
    "desc": "万茜秦俊杰破五毒迷案",
    "episodes": "全30集",
@@ -8579,7 +8777,7 @@
    "cover": "http://pic0.iqiyipic.com/image/20250703/ee/ac/a_100543678_m_601_m7.jpg",
    "premiere": "2025-07-03",
    "days_ago": 444,
-   "rank": 25,
+   "rank": 45,
    "cast": "陈小春 李治廷 韩雪",
    "desc": "陈小春李治廷携手护港",
    "episodes": "全24集",
@@ -8588,38 +8786,6 @@
    "tags": [
     "罪案",
     "都市"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "爱上海军蓝",
-   "cover": "http://pic8.iqiyipic.com/image/20250627/0c/0d/a_100645613_m_601_m3.jpg",
-   "premiere": "2025-07-02",
-   "days_ago": 445,
-   "rank": 44,
-   "cast": "金瀚 宣璐 徐洋",
-   "desc": "金瀚宣璐护航蓝海",
-   "episodes": "全34集",
-   "url": "http://www.iqiyi.com/a_21qt1uw8w89.html",
-   "baike_url": "https://baike.baidu.com/item/%E7%88%B1%E4%B8%8A%E6%B5%B7%E5%86%9B%E8%93%9D",
-   "tags": []
-  },
-  {
-   "platform": "iqiyi",
-   "title": "亲爱的你",
-   "cover": "http://pic8.iqiyipic.com/image/20250627/83/b6/a_100623745_m_601_m6.jpg",
-   "premiere": "2025-06-30",
-   "days_ago": 447,
-   "rank": 29,
-   "cast": "张一山 李沁 阮巨",
-   "desc": "张一山李沁双向救赎",
-   "episodes": "全29集",
-   "url": "http://www.iqiyi.com/a_2d476n57ea9.html",
-   "baike_url": "https://baike.baidu.com/item/%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BD%A0",
-   "tags": [
-    "言情",
-    "内地",
-    "家庭"
    ]
   },
   {
@@ -8637,6 +8803,24 @@
    "tags": [
     "剧情",
     "古装"
+   ]
+  },
+  {
+   "platform": "iqiyi",
+   "title": "亲爱的你",
+   "cover": "http://pic8.iqiyipic.com/image/20250627/83/b6/a_100623745_m_601_m6.jpg",
+   "premiere": "2025-06-30",
+   "days_ago": 447,
+   "rank": 50,
+   "cast": "张一山 李沁 阮巨",
+   "desc": "张一山李沁双向救赎",
+   "episodes": "全29集",
+   "url": "http://www.iqiyi.com/a_2d476n57ea9.html",
+   "baike_url": "https://baike.baidu.com/item/%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BD%A0",
+   "tags": [
+    "言情",
+    "内地",
+    "家庭"
    ]
   },
   {
@@ -8659,29 +8843,11 @@
   },
   {
    "platform": "iqiyi",
-   "title": "真相半白",
-   "cover": "http://pic6.iqiyipic.com/image/20250629/db/c4/a_100636239_m_601_m10.jpg",
-   "premiere": "2025-06-25",
-   "days_ago": 452,
-   "rank": 49,
-   "cast": "张博 曹曦文 季晨",
-   "desc": "医疗黑幕 碎尸迷案",
-   "episodes": "全25集",
-   "url": "http://www.iqiyi.com/a_1ggw7a7491l.html",
-   "baike_url": "https://baike.baidu.com/item/%E7%9C%9F%E7%9B%B8%E5%8D%8A%E7%99%BD",
-   "tags": [
-    "悬疑",
-    "内地",
-    "普通话"
-   ]
-  },
-  {
-   "platform": "iqiyi",
    "title": "完美的救赎",
    "cover": "http://pic3.iqiyipic.com/image/20250617/07/8d/a_100571931_m_601_m8.jpg",
    "premiere": "2025-06-19",
    "days_ago": 458,
-   "rank": 12,
+   "rank": 33,
    "cast": "欧豪 王鹤润 成泰燊",
    "desc": "真相之上 谎言之下",
    "episodes": "全16集",
@@ -8710,24 +8876,6 @@
    ]
   },
   {
-   "platform": "iqiyi",
-   "title": "人生若如初见",
-   "cover": "http://pic8.iqiyipic.com/image/20250513/2c/eb/a_100431290_m_601_m10.jpg",
-   "premiere": "2025-05-13",
-   "days_ago": 495,
-   "rank": 9,
-   "cast": "李现 春夏 魏大勋",
-   "desc": "回望百年前时代的转角",
-   "episodes": "全40集",
-   "url": "http://www.iqiyi.com/a_10ie4hwpgt9.html",
-   "baike_url": "https://baike.baidu.com/item/%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81",
-   "tags": [
-    "内地",
-    "近代",
-    "民国"
-   ]
-  },
-  {
    "platform": "tencent",
    "title": "折腰",
    "cover": "http://pic5.iqiyipic.com/image/20250515/31/ed/a_100623706_m_601_m1.jpg",
@@ -8747,20 +8895,20 @@
   },
   {
    "platform": "iqiyi",
-   "title": "灭罪",
-   "cover": "http://pic8.iqiyipic.com/image/20250520/c6/7c/a_100611140_m_601_m16.jpg",
-   "premiere": "2025-04-30",
-   "days_ago": 508,
-   "rank": 37,
-   "cast": "费启鸣 王晓赟子 叶祖新",
-   "desc": "埋尸换命 疯批复仇",
-   "episodes": "全24集",
-   "url": "http://www.iqiyi.com/a_utgl8wkerp.html",
-   "baike_url": "https://baike.baidu.com/item/%E7%81%AD%E7%BD%AA",
+   "title": "人生若如初见",
+   "cover": "http://pic8.iqiyipic.com/image/20250513/2c/eb/a_100431290_m_601_m10.jpg",
+   "premiere": "2025-05-13",
+   "days_ago": 495,
+   "rank": 30,
+   "cast": "李现 春夏 魏大勋",
+   "desc": "回望百年前时代的转角",
+   "episodes": "全40集",
+   "url": "http://www.iqiyi.com/a_10ie4hwpgt9.html",
+   "baike_url": "https://baike.baidu.com/item/%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81",
    "tags": [
-    "悬疑",
-    "罪案",
-    "内地"
+    "内地",
+    "近代",
+    "民国"
    ]
   },
   {
@@ -8769,7 +8917,7 @@
    "cover": "http://pic2.iqiyipic.com/image/20250328/de/9c/a_100551893_m_601_m10.jpg",
    "premiere": "2025-03-18",
    "days_ago": 551,
-   "rank": 13,
+   "rank": 34,
    "cast": "郭京飞 秦岚 祖峰",
    "desc": "郭京飞秦岚市井缉盗",
    "episodes": "全24集",
@@ -8857,7 +9005,7 @@
    "cover": "http://pic4.iqiyipic.com/image/20250205/70/d3/a_100546903_m_601_m12.jpg",
    "premiere": "2025-02-07",
    "days_ago": 590,
-   "rank": 8,
+   "rank": 29,
    "cast": "邓为 向涵之 陈鑫海",
    "desc": "邓为向涵之师徒换乘",
    "episodes": "全40集",
@@ -8941,7 +9089,7 @@
   {
    "platform": "youku",
    "title": "蜀锦人家",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/d92084b55e57499bb57d063469fc5144.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/f4ba3b3ffa0f4d3bade28cd686238870.webp.jpg",
    "premiere": "2024-11-30",
    "days_ago": 659,
    "rank": 29,
@@ -8959,7 +9107,7 @@
   {
    "platform": "youku",
    "title": "天赐仇爱",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/4fff6fa29b09413d8cc47d6b2f4344ff.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/ef0d2f34ebd64fab96b4e26123326796.webp.jpg",
    "premiere": "2024-11-27",
    "days_ago": 662,
    "rank": 17,
@@ -9023,23 +9171,6 @@
     "甜虐爱情",
     "家族兴衰",
     "宅门风云"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "二十一天",
-   "cover": "http://pic6.iqiyipic.com/image/20250624/08/7f/a_100545209_m_601_m9.jpg",
-   "premiere": "2024-09-26",
-   "days_ago": 724,
-   "rank": 42,
-   "cast": "欧豪 张雪迎 王志文",
-   "desc": "13人天坑极限求生",
-   "episodes": "全12集",
-   "url": "http://www.iqiyi.com/a_24965oxecg5.html",
-   "baike_url": "https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A9",
-   "tags": [
-    "悬疑",
-    "罪案"
    ]
   },
   {
@@ -9111,24 +9242,6 @@
    "tags": [
     "爱情",
     "都市"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "孤战迷城",
-   "cover": "http://pic4.iqiyipic.com/image/20240728/d8/0b/a_100545344_m_601_m6.jpg",
-   "premiere": "2024-06-29",
-   "days_ago": 813,
-   "rank": 22,
-   "cast": "黄景瑜 辛芷蕾 马思超",
-   "desc": "黄景瑜辛芷蕾谍战交锋",
-   "episodes": "全40集",
-   "url": "http://www.iqiyi.com/a_29y3oknaivt.html",
-   "baike_url": "https://baike.baidu.com/item/%E5%AD%A4%E6%88%98%E8%BF%B7%E5%9F%8E",
-   "tags": [
-    "军旅",
-    "谍战",
-    "战争"
    ]
   },
   {
@@ -9204,27 +9317,9 @@
    ]
   },
   {
-   "platform": "iqiyi",
-   "title": "不可告人",
-   "cover": "http://pic2.iqiyipic.com/image/20240515/77/2f/a_100545294_m_601_m10.jpg",
-   "premiere": "2024-05-08",
-   "days_ago": 865,
-   "rank": 11,
-   "cast": "欧豪 李一桐 杨玏",
-   "desc": "欧豪李一桐探寻真相",
-   "episodes": "全12集",
-   "url": "http://www.iqiyi.com/a_2d0csqgi611.html",
-   "baike_url": "https://baike.baidu.com/item/%E4%B8%8D%E5%8F%AF%E5%91%8A%E4%BA%BA",
-   "tags": [
-    "悬疑",
-    "罪案",
-    "剧情"
-   ]
-  },
-  {
    "platform": "youku",
    "title": "新生",
-   "cover": "http://liangcang-material.alicdn.com/prod/upload/27fb729a91304b3395345954520cff2e.webp.jpg",
+   "cover": "http://liangcang-material.alicdn.com/prod/upload/178e79da8ab34c5492119f00ce7269d1.webp.jpg",
    "premiere": "2024-05-06",
    "days_ago": 867,
    "rank": 28,
@@ -9237,42 +9332,6 @@
     "情感悬疑",
     "悬疑",
     "剧情"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "欢乐颂5",
-   "cover": "http://pic1.iqiyipic.com/image/20240401/c3/d6/a_100567536_m_601_m12.jpg",
-   "premiere": "2024-03-16",
-   "days_ago": 918,
-   "rank": 33,
-   "cast": "江疏影 杨采钰 张佳宁",
-   "desc": "22楼携手共赴新程",
-   "episodes": "全34集",
-   "url": "http://www.iqiyi.com/a_hq7wy4yath.html",
-   "baike_url": "https://baike.baidu.com/item/%E6%AC%A2%E4%B9%90%E9%A2%825",
-   "tags": [
-    "言情",
-    "剧情",
-    "都市"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "烈焰",
-   "cover": "http://pic5.iqiyipic.com/image/20240417/8c/0b/a_100525916_m_601_m26.jpg",
-   "premiere": "2024-03-13",
-   "days_ago": 921,
-   "rank": 21,
-   "cast": "任嘉伦 邢菲 祝绪丹",
-   "desc": "任嘉伦重生护三界",
-   "episodes": "全40集",
-   "url": "http://www.iqiyi.com/a_nyl3ip0doh.html",
-   "baike_url": "https://baike.baidu.com/item/%E7%83%88%E7%84%B0",
-   "tags": [
-    "武侠",
-    "古装",
-    "奇幻"
    ]
   },
   {
@@ -9290,23 +9349,6 @@
    "tags": [
     "喜剧",
     "家庭"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "仙剑四",
-   "cover": "http://pic6.iqiyipic.com/image/20240201/d2/c1/a_100560336_m_601_m21.jpg",
-   "premiere": "2024-01-17",
-   "days_ago": 977,
-   "rank": 46,
-   "cast": "鞠婧祎 陈哲远 茅子俊",
-   "desc": "热血护苍生",
-   "episodes": "全36集",
-   "url": "http://www.iqiyi.com/a_dwo684rau1.html",
-   "baike_url": "https://baike.baidu.com/item/%E4%BB%99%E5%89%91%E5%9B%9B",
-   "tags": [
-    "言情",
-    "古装"
    ]
   },
   {
@@ -9364,42 +9406,6 @@
    ]
   },
   {
-   "platform": "iqiyi",
-   "title": "特工任务",
-   "cover": "http://pic1.iqiyipic.com/image/20231109/c4/6c/a_100502494_m_601_m18.jpg",
-   "premiere": "2023-09-20",
-   "days_ago": 1096,
-   "rank": 27,
-   "cast": "韩庚 魏大勋 李一桐",
-   "desc": "韩庚魏大勋邀你入局",
-   "episodes": "全38集",
-   "url": "http://www.iqiyi.com/a_1maeqm4nuzl.html",
-   "baike_url": "https://baike.baidu.com/item/%E7%89%B9%E5%B7%A5%E4%BB%BB%E5%8A%A1",
-   "tags": [
-    "悬疑",
-    "罪案",
-    "内地"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "消失的十一层",
-   "cover": "http://pic8.iqiyipic.com/image/20231109/5b/09/a_100535266_m_601_m21.jpg",
-   "premiere": "2023-07-09",
-   "days_ago": 1169,
-   "rank": 40,
-   "cast": "潘粤明 陈数 果靖霖",
-   "desc": "警弟匪兄黑白对决",
-   "episodes": "全24集",
-   "url": "http://www.iqiyi.com/a_t59o3yjifh.html",
-   "baike_url": "https://baike.baidu.com/item/%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8D%81%E4%B8%80%E5%B1%82",
-   "tags": [
-    "悬疑",
-    "内地",
-    "普通话"
-   ]
-  },
-  {
    "platform": "tencent",
    "title": "你给我的喜欢",
    "cover": "http://pic3.iqiyipic.com/image/20230504/2e/50/a_100529482_m_601_m3.jpg",
@@ -9415,42 +9421,6 @@
     "甜虐爱情",
     "都市生活",
     "爱情"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "向风而行",
-   "cover": "http://pic6.iqiyipic.com/image/20231109/c7/cc/a_100493610_m_601_m22.jpg",
-   "premiere": "2022-12-26",
-   "days_ago": 1364,
-   "rank": 23,
-   "cast": "王凯 谭松韵 刘畅",
-   "desc": "双A搭档逐梦蓝天",
-   "episodes": "全39集",
-   "url": "http://www.iqiyi.com/a_1mg3hv1oifp.html",
-   "baike_url": "https://baike.baidu.com/item/%E5%90%91%E9%A3%8E%E8%80%8C%E8%A1%8C",
-   "tags": [
-    "言情",
-    "内地",
-    "普通话"
-   ]
-  },
-  {
-   "platform": "iqiyi",
-   "title": "对决",
-   "cover": "http://pic9.iqiyipic.com/image/20231109/af/06/a_100459444_m_601_m12.jpg",
-   "premiere": "2022-05-10",
-   "days_ago": 1594,
-   "rank": 34,
-   "cast": "欧豪 王景春 吕晓霖",
-   "desc": "欧豪王景春扫黑除恶",
-   "episodes": "全24集",
-   "url": "http://www.iqiyi.com/a_29sdsc1ln91.html",
-   "baike_url": "https://baike.baidu.com/item/%E5%AF%B9%E5%86%B3",
-   "tags": [
-    "内地",
-    "罪案",
-    "当代"
    ]
   },
   {
@@ -9618,6 +9588,30 @@
     "youku"
    ],
    "premiere": "2026-09-17"
+  },
+  {
+   "title": "师兄太稳健",
+   "platforms": [
+    "iqiyi",
+    "youku"
+   ],
+   "premiere": "2026-08-19"
+  },
+  {
+   "title": "这一秒过火",
+   "platforms": [
+    "tencent",
+    "iqiyi"
+   ],
+   "premiere": "2026-07-19"
+  },
+  {
+   "title": "逐玉",
+   "platforms": [
+    "tencent",
+    "iqiyi"
+   ],
+   "premiere": "2026-03-06"
   },
   {
    "title": "你比星光美丽",
@@ -10243,6 +10237,67 @@
   ],
   "iqiyi": [
    {
+    "title": "生逢其时",
+    "points": [
+     {
+      "date": "2026-08-28",
+      "rank": null
+     },
+     {
+      "date": "2026-08-31",
+      "rank": null
+     },
+     {
+      "date": "2026-09-01",
+      "rank": null
+     },
+     {
+      "date": "2026-09-02",
+      "rank": null
+     },
+     {
+      "date": "2026-09-03",
+      "rank": null
+     },
+     {
+      "date": "2026-09-04",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-08",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-09",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-10",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-11",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-14",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-15",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-16",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-20",
+      "rank": 1
+     }
+    ]
+   },
+   {
     "title": "一瓯春",
     "points": [
      {
@@ -10299,7 +10354,7 @@
      },
      {
       "date": "2026-09-20",
-      "rank": 1
+      "rank": 2
      }
     ]
    },
@@ -10360,12 +10415,73 @@
      },
      {
       "date": "2026-09-20",
-      "rank": 2
+      "rank": 3
      }
     ]
    },
    {
-    "title": "生逢其时",
+    "title": "醒来",
+    "points": [
+     {
+      "date": "2026-08-28",
+      "rank": 2
+     },
+     {
+      "date": "2026-08-31",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-01",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-02",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-03",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-04",
+      "rank": 1
+     },
+     {
+      "date": "2026-09-08",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-09",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-10",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-11",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-14",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-15",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-16",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-20",
+      "rank": 4
+     }
+    ]
+   },
+   {
+    "title": "重案六组：消失的警号",
     "points": [
      {
       "date": "2026-08-28",
@@ -10377,51 +10493,112 @@
      },
      {
       "date": "2026-09-01",
-      "rank": null
+      "rank": 3
      },
      {
       "date": "2026-09-02",
-      "rank": null
+      "rank": 2
      },
      {
       "date": "2026-09-03",
-      "rank": null
+      "rank": 2
      },
      {
       "date": "2026-09-04",
-      "rank": 5
+      "rank": 2
      },
      {
       "date": "2026-09-08",
-      "rank": 1
+      "rank": 3
      },
      {
       "date": "2026-09-09",
-      "rank": 1
+      "rank": 3
      },
      {
       "date": "2026-09-10",
-      "rank": 1
+      "rank": 4
      },
      {
       "date": "2026-09-11",
-      "rank": 2
+      "rank": 4
      },
      {
       "date": "2026-09-14",
-      "rank": 2
+      "rank": 4
      },
      {
       "date": "2026-09-15",
-      "rank": 2
+      "rank": 4
      },
      {
       "date": "2026-09-16",
-      "rank": 2
+      "rank": 4
      },
      {
       "date": "2026-09-20",
+      "rank": 5
+     }
+    ]
+   },
+   {
+    "title": "重器",
+    "points": [
+     {
+      "date": "2026-08-28",
+      "rank": 1
+     },
+     {
+      "date": "2026-08-31",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-01",
+      "rank": 2
+     },
+     {
+      "date": "2026-09-02",
       "rank": 3
+     },
+     {
+      "date": "2026-09-03",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-04",
+      "rank": 3
+     },
+     {
+      "date": "2026-09-08",
+      "rank": 4
+     },
+     {
+      "date": "2026-09-09",
+      "rank": 4
+     },
+     {
+      "date": "2026-09-10",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-11",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-14",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-15",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-16",
+      "rank": 5
+     },
+     {
+      "date": "2026-09-20",
+      "rank": 6
      }
     ]
    },
@@ -10482,247 +10659,64 @@
      },
      {
       "date": "2026-09-20",
-      "rank": 4
-     }
-    ]
-   },
-   {
-    "title": "阎魔的宠妃",
-    "points": [
-     {
-      "date": "2026-08-28",
-      "rank": null
-     },
-     {
-      "date": "2026-08-31",
-      "rank": null
-     },
-     {
-      "date": "2026-09-01",
-      "rank": null
-     },
-     {
-      "date": "2026-09-02",
-      "rank": null
-     },
-     {
-      "date": "2026-09-03",
-      "rank": null
-     },
-     {
-      "date": "2026-09-04",
-      "rank": null
-     },
-     {
-      "date": "2026-09-08",
-      "rank": null
-     },
-     {
-      "date": "2026-09-09",
-      "rank": null
-     },
-     {
-      "date": "2026-09-10",
-      "rank": null
-     },
-     {
-      "date": "2026-09-11",
-      "rank": null
-     },
-     {
-      "date": "2026-09-14",
-      "rank": null
-     },
-     {
-      "date": "2026-09-15",
-      "rank": null
-     },
-     {
-      "date": "2026-09-16",
-      "rank": null
-     },
-     {
-      "date": "2026-09-20",
-      "rank": 5
-     }
-    ]
-   },
-   {
-    "title": "荣耀的阶梯",
-    "points": [
-     {
-      "date": "2026-08-28",
-      "rank": null
-     },
-     {
-      "date": "2026-08-31",
-      "rank": null
-     },
-     {
-      "date": "2026-09-01",
-      "rank": null
-     },
-     {
-      "date": "2026-09-02",
-      "rank": null
-     },
-     {
-      "date": "2026-09-03",
-      "rank": null
-     },
-     {
-      "date": "2026-09-04",
-      "rank": null
-     },
-     {
-      "date": "2026-09-08",
-      "rank": null
-     },
-     {
-      "date": "2026-09-09",
-      "rank": null
-     },
-     {
-      "date": "2026-09-10",
-      "rank": null
-     },
-     {
-      "date": "2026-09-11",
-      "rank": null
-     },
-     {
-      "date": "2026-09-14",
-      "rank": null
-     },
-     {
-      "date": "2026-09-15",
-      "rank": null
-     },
-     {
-      "date": "2026-09-16",
-      "rank": null
-     },
-     {
-      "date": "2026-09-20",
-      "rank": 6
-     }
-    ]
-   },
-   {
-    "title": "梦回缘",
-    "points": [
-     {
-      "date": "2026-08-28",
-      "rank": null
-     },
-     {
-      "date": "2026-08-31",
-      "rank": null
-     },
-     {
-      "date": "2026-09-01",
-      "rank": null
-     },
-     {
-      "date": "2026-09-02",
-      "rank": null
-     },
-     {
-      "date": "2026-09-03",
-      "rank": null
-     },
-     {
-      "date": "2026-09-04",
-      "rank": null
-     },
-     {
-      "date": "2026-09-08",
-      "rank": null
-     },
-     {
-      "date": "2026-09-09",
-      "rank": null
-     },
-     {
-      "date": "2026-09-10",
-      "rank": null
-     },
-     {
-      "date": "2026-09-11",
-      "rank": null
-     },
-     {
-      "date": "2026-09-14",
-      "rank": null
-     },
-     {
-      "date": "2026-09-15",
-      "rank": null
-     },
-     {
-      "date": "2026-09-16",
-      "rank": 26
-     },
-     {
-      "date": "2026-09-20",
       "rank": 7
      }
     ]
    },
    {
-    "title": "仙台有树",
+    "title": "雀骨",
     "points": [
      {
       "date": "2026-08-28",
-      "rank": 33
+      "rank": 6
      },
      {
       "date": "2026-08-31",
-      "rank": 34
+      "rank": 6
      },
      {
       "date": "2026-09-01",
-      "rank": 40
+      "rank": 7
      },
      {
       "date": "2026-09-02",
-      "rank": 38
+      "rank": 7
      },
      {
       "date": "2026-09-03",
-      "rank": 31
+      "rank": 7
      },
      {
       "date": "2026-09-04",
-      "rank": 31
+      "rank": 8
      },
      {
       "date": "2026-09-08",
-      "rank": 32
+      "rank": 8
      },
      {
       "date": "2026-09-09",
-      "rank": 31
+      "rank": 8
      },
      {
       "date": "2026-09-10",
-      "rank": 31
+      "rank": 8
      },
      {
       "date": "2026-09-11",
-      "rank": 30
+      "rank": 7
      },
      {
       "date": "2026-09-14",
-      "rank": 30
+      "rank": 7
      },
      {
       "date": "2026-09-15",
-      "rank": 32
+      "rank": 7
      },
      {
       "date": "2026-09-16",
-      "rank": 31
+      "rank": 7
      },
      {
       "date": "2026-09-20",
@@ -10731,59 +10725,59 @@
     ]
    },
    {
-    "title": "人生若如初见",
+    "title": "师兄太稳健",
     "points": [
      {
       "date": "2026-08-28",
-      "rank": null
+      "rank": 3
      },
      {
       "date": "2026-08-31",
-      "rank": null
+      "rank": 3
      },
      {
       "date": "2026-09-01",
-      "rank": 32
+      "rank": 4
      },
      {
       "date": "2026-09-02",
-      "rank": 30
+      "rank": 4
      },
      {
       "date": "2026-09-03",
-      "rank": 32
+      "rank": 4
      },
      {
       "date": "2026-09-04",
-      "rank": 32
+      "rank": 4
      },
      {
       "date": "2026-09-08",
-      "rank": 31
+      "rank": 5
      },
      {
       "date": "2026-09-09",
-      "rank": 30
+      "rank": 5
      },
      {
       "date": "2026-09-10",
-      "rank": 32
+      "rank": 6
      },
      {
       "date": "2026-09-11",
-      "rank": 31
+      "rank": 6
      },
      {
       "date": "2026-09-14",
-      "rank": 31
+      "rank": 6
      },
      {
       "date": "2026-09-15",
-      "rank": 31
+      "rank": 6
      },
      {
       "date": "2026-09-16",
-      "rank": 32
+      "rank": 6
      },
      {
       "date": "2026-09-20",
@@ -10792,7 +10786,7 @@
     ]
    },
    {
-    "title": "人生赢家",
+    "title": "冬至",
     "points": [
      {
       "date": "2026-08-28",
@@ -10804,47 +10798,47 @@
      },
      {
       "date": "2026-09-01",
-      "rank": null
+      "rank": 25
      },
      {
       "date": "2026-09-02",
-      "rank": null
+      "rank": 22
      },
      {
       "date": "2026-09-03",
-      "rank": null
+      "rank": 20
      },
      {
       "date": "2026-09-04",
-      "rank": null
+      "rank": 18
      },
      {
       "date": "2026-09-08",
-      "rank": null
+      "rank": 13
      },
      {
       "date": "2026-09-09",
-      "rank": 9
+      "rank": 14
      },
      {
       "date": "2026-09-10",
-      "rank": 7
+      "rank": 15
      },
      {
       "date": "2026-09-11",
-      "rank": 10
+      "rank": 11
      },
      {
       "date": "2026-09-14",
-      "rank": 19
+      "rank": 9
      },
      {
       "date": "2026-09-15",
-      "rank": 26
+      "rank": 8
      },
      {
       "date": "2026-09-16",
-      "rank": null
+      "rank": 8
      },
      {
       "date": "2026-09-20",
